@@ -1,0 +1,1558 @@
+title,summary,published,year,month,category
+"Artificial Intelligence in Reverse Supply Chain Management: The State of
+  the Art","Product take-back legislation forces manufacturers to bear the costs of
+collection and disposal of products that have reached the end of their useful
+lives. In order to reduce these costs, manufacturers can consider reuse,
+remanufacturing and/or recycling of components as an alternative to disposal.
+The implementation of such alternatives usually requires an appropriate reverse
+supply chain management. With the concepts of reverse supply chain are gaining
+popularity in practice, the use of artificial intelligence approaches in these
+areas is also becoming popular. As a result, the purpose of this paper is to
+give an overview of the recent publications concerning the application of
+artificial intelligence techniques to reverse supply chain with emphasis on
+certain types of product returns.",2010-12-18,2010,2010-12,manufacturing
+"Machine-Part cell formation through visual decipherable clustering of
+  Self Organizing Map","Machine-part cell formation is used in cellular manufacturing in order to
+process a large variety, quality, lower work in process levels, reducing
+manufacturing lead-time and customer response time while retaining flexibility
+for new products. This paper presents a new and novel approach for obtaining
+machine cells and part families. In the cellular manufacturing the fundamental
+problem is the formation of part families and machine cells. The present paper
+deals with the Self Organising Map (SOM) method an unsupervised learning
+algorithm in Artificial Intelligence, and has been used as a visually
+decipherable clustering tool of machine-part cell formation. The objective of
+the paper is to cluster the binary machine-part matrix through visually
+decipherable cluster of SOM color-coding and labelling via the SOM map nodes in
+such a way that the part families are processed in that machine cells. The
+Umatrix, component plane, principal component projection, scatter plot and
+histogram of SOM have been reported in the present work for the successful
+visualization of the machine-part cell formation. Computational result with the
+proposed algorithm on a set of group technology problems available in the
+literature is also presented. The proposed SOM approach produced solutions with
+a grouping efficacy that is at least as good as any results earlier reported in
+the literature and improved the grouping efficacy for 70% of the problems and
+found immensely useful to both industry practitioners and researchers.",2011-05-06,2011,2011-05,manufacturing
+Causal Discovery for Manufacturing Domains,"Yield and quality improvement is of paramount importance to any manufacturing
+company. One of the ways of improving yield is through discovery of the root
+causal factors affecting yield. We propose the use of data-driven interpretable
+causal models to identify key factors affecting yield. We focus on factors that
+are measured in different stages of production and testing in the manufacturing
+cycle of a product. We apply causal structure learning techniques on real data
+collected from this line. Specifically, the goal of this work is to learn
+interpretable causal models from observational data produced by manufacturing
+lines.
+  Emphasis has been given to the interpretability of the models to make them
+actionable in the field of manufacturing. We highlight the challenges presented
+by assembly line data and propose ways to alleviate them.We also identify
+unique characteristics of data originating from assembly lines and how to
+leverage them in order to improve causal discovery. Standard evaluation
+techniques for causal structure learning shows that the learned causal models
+seem to closely represent the underlying latent causal relationship between
+different factors in the production process. These results were also validated
+by manufacturing domain experts who found them promising. This work
+demonstrates how data mining and knowledge discovery can be used for root cause
+analysis in the domain of manufacturing and connected industry.",2016-05-13,2016,2016-05,manufacturing
+Scope for Machine Learning in Digital Manufacturing,"This provocation paper provides an overview of the underlying optimisation
+problem in the emerging field of Digital Manufacturing. Initially, this paper
+discusses how the notion of Digital Manufacturing is transforming from a term
+describing a suite of software tools for the integration of production and
+design functions towards a more general concept incorporating computerised
+manufacturing and supply chain processes, as well as information collection and
+utilisation across the product life cycle. On this basis, we use the example of
+one such manufacturing process, Additive Manufacturing, to identify an
+integrated multi-objective optimisation problem underlying Digital
+Manufacturing. Forming an opportunity for a concurrent application of data
+science and optimisation, a set of challenges arising from this problem is
+outlined.",2016-09-19,2016,2016-09,manufacturing
+Closed-Loop Policies for Operational Tests of Safety-Critical Systems,"Manufacturers of safety-critical systems must make the case that their
+product is sufficiently safe for public deployment. Much of this case often
+relies upon critical event outcomes from real-world testing, requiring
+manufacturers to be strategic about how they allocate testing resources in
+order to maximize their chances of demonstrating system safety. This work
+frames the partially observable and belief-dependent problem of test scheduling
+as a Markov decision process, which can be solved efficiently to yield
+closed-loop manufacturer testing policies. By solving for policies over a wide
+range of problem formulations, we are able to provide high-level guidance for
+manufacturers and regulators on issues relating to the testing of
+safety-critical systems. This guidance spans an array of topics, including
+circumstances under which manufacturers should continue testing despite
+observed incidents, when manufacturers should test aggressively, and when
+regulators should increase or reduce the real-world testing requirements for an
+autonomous vehicle.",2017-07-25,2017,2017-07,manufacturing
+Automated Process Planning for Hybrid Manufacturing,"Hybrid manufacturing (HM) technologies combine additive and subtractive
+manufacturing (AM/SM) capabilities, leveraging AM's strengths in fabricating
+complex geometries and SM's precision and quality to produce finished parts. We
+present a systematic approach to automated computer-aided process planning
+(CAPP) for HM that can identify non-trivial, qualitatively distinct, and
+cost-optimal combinations of AM/SM modalities. A multimodal HM process plan is
+represented by a finite Boolean expression of AM and SM manufacturing
+primitives, such that the expression evaluates to an 'as-manufactured'
+artifact. We show that primitives that respect spatial constraints such as
+accessibility and collision avoidance may be constructed by solving inverse
+configuration space problems on the 'as-designed' artifact and manufacturing
+instruments. The primitives generate a finite Boolean algebra (FBA) that
+enumerates the entire search space for planning. The FBA's canonical
+intersection terms (i.e., 'atoms') provide the complete domain decomposition to
+reframe manufacturability analysis and process planning into purely symbolic
+reasoning, once a subcollection of atoms is found to be interchangeable with
+the design target. The approach subsumes unimodal (all-AM or all-SM) process
+planning as special cases. We demonstrate the practical potency of our
+framework and its computational efficiency when applied to process planning of
+complex 3D parts with dramatically different AM and SM instruments.",2018-05-18,2018,2018-05,manufacturing
+An Online RFID Localization in the Manufacturing Shopfloor,"{Radio Frequency Identification technology has gained popularity for cheap
+and easy deployment. In the realm of manufacturing shopfloor, it can be used to
+track the location of manufacturing objects to achieve better efficiency. The
+underlying challenge of localization lies in the non-stationary characteristics
+of manufacturing shopfloor which calls for an adaptive life-long learning
+strategy in order to arrive at accurate localization results. This paper
+presents an evolving model based on a novel evolving intelligent system, namely
+evolving Type-2 Quantum Fuzzy Neural Network (eT2QFNN), which features an
+interval type-2 quantum fuzzy set with uncertain jump positions. The quantum
+fuzzy set possesses a graded membership degree which enables better
+identification of overlaps between classes. The eT2QFNN works fully in the
+evolving mode where all parameters including the number of rules are
+automatically adjusted and generated on the fly. The parameter adjustment
+scenario relies on decoupled extended Kalman filter method. Our numerical study
+shows that eT2QFNN is able to deliver comparable accuracy compared to
+state-of-the-art algorithms.",2018-05-20,2018,2018-05,manufacturing
+Situation Calculus for Synthesis of Manufacturing Controllers,"Manufacturing is transitioning from a mass production model to a
+manufacturing as a service model in which manufacturing facilities 'bid' to
+produce products. To decide whether to bid for a complex, previously unseen
+product, a manufacturing facility must be able to synthesize, 'on the fly', a
+process plan controller that delegates abstract manufacturing tasks in the
+supplied process recipe to the appropriate manufacturing resources, e.g., CNC
+machines, robots etc. Previous work in applying AI behaviour composition to
+synthesize process plan controllers has considered only finite state ad-hoc
+representations. Here, we study the problem in the relational setting of the
+Situation Calculus. By taking advantage of recent work on abstraction in the
+Situation Calculus, process recipes and available resources are represented by
+ConGolog programs over, respectively, an abstract and a concrete action theory.
+This allows us to capture the problem in a formal, general framework, and show
+decidability for the case of bounded action theories. We also provide
+techniques for actually synthesizing the controller.",2018-07-12,2018,2018-07,manufacturing
+A General End-to-end Diagnosis Framework for Manufacturing Systems,"The manufacturing sector is envisioned to be heavily influenced by artificial
+intelligence-based technologies with the extraordinary increases in
+computational power and data volumes. A central challenge in manufacturing
+sector lies in the requirement of a general framework to ensure satisfied
+diagnosis and monitoring performances in different manufacturing applications.
+Here we propose a general data-driven, end-to-end framework for the monitoring
+of manufacturing systems. This framework, derived from deep learning
+techniques, evaluates fused sensory measurements to detect and even predict
+faults and wearing conditions. This work exploits the predictive power of deep
+learning to automatically extract hidden degradation features from noisy,
+time-course data. We have experimented the proposed framework on ten
+representative datasets drawn from a wide variety of manufacturing
+applications. Results reveal that the framework performs well in examined
+benchmark applications and can be applied in diverse contexts, indicating its
+potential use as a critical corner stone in smart manufacturing.",2018-12-17,2018,2018-12,manufacturing
+"A 20-Year Community Roadmap for Artificial Intelligence Research in the
+  US","Decades of research in artificial intelligence (AI) have produced formidable
+technologies that are providing immense benefit to industry, government, and
+society. AI systems can now translate across multiple languages, identify
+objects in images and video, streamline manufacturing processes, and control
+cars. The deployment of AI systems has not only created a trillion-dollar
+industry that is projected to quadruple in three years, but has also exposed
+the need to make AI systems fair, explainable, trustworthy, and secure. Future
+AI systems will rightfully be expected to reason effectively about the world in
+which they (and people) operate, handling complex tasks and responsibilities
+effectively and ethically, engaging in meaningful communication, and improving
+their awareness through experience.
+  Achieving the full potential of AI technologies poses research challenges
+that require a radical transformation of the AI research enterprise,
+facilitated by significant and sustained investment. These are the major
+recommendations of a recent community effort coordinated by the Computing
+Community Consortium and the Association for the Advancement of Artificial
+Intelligence to formulate a Roadmap for AI research and development over the
+next two decades.",2019-08-07,2019,2019-08,manufacturing
+"Big Data Analytics for Manufacturing Internet of Things: Opportunities,
+  Challenges and Enabling Technologies","The recent advances in information and communication technology (ICT) have
+promoted the evolution of conventional computer-aided manufacturing industry to
+smart data-driven manufacturing. Data analytics in massive manufacturing data
+can extract huge business values while can also result in research challenges
+due to the heterogeneous data types, enormous volume and real-time velocity of
+manufacturing data. This paper provides an overview on big data analytics in
+manufacturing Internet of Things (MIoT). This paper first starts with a
+discussion on necessities and challenges of big data analytics in manufacturing
+data of MIoT. Then, the enabling technologies of big data analytics of
+manufacturing data are surveyed and discussed. Moreover, this paper also
+outlines the future directions in this promising area.",2019-09-01,2019,2019-09,manufacturing
+"Research Directions in Democratizing Innovation through Design
+  Automation, One-Click Manufacturing Services and Intelligent Machines","The digitalization of manufacturing has created opportunities for consumers
+to customize products that fit their individualized needs which in turn would
+drive demand for manufacturing services. However, this pull-based manufacturing
+system production of extremely low quantity and limitless variety for products
+is expensive to implement. New emerging technology in design automation driven
+by data-driven computational design, manufacturing-as-a-service marketplaces
+and digitally enabled micro-factories holds promise towards democratization of
+innovation. In this paper, scientific, technology and infrastructure challenges
+are identified and if solved, the impact of these emerging technologies on
+product innovation and future factory organization is discussed.",2019-09-23,2019,2019-09,manufacturing
+Manufacturing Dispatching using Reinforcement and Transfer Learning,"Efficient dispatching rule in manufacturing industry is key to ensure product
+on-time delivery and minimum past-due and inventory cost. Manufacturing,
+especially in the developed world, is moving towards on-demand manufacturing
+meaning a high mix, low volume product mix. This requires efficient dispatching
+that can work in dynamic and stochastic environments, meaning it allows for
+quick response to new orders received and can work over a disparate set of shop
+floor settings. In this paper we address this problem of dispatching in
+manufacturing. Using reinforcement learning (RL), we propose a new design to
+formulate the shop floor state as a 2-D matrix, incorporate job slack time into
+state representation, and design lateness and tardiness rewards function for
+dispatching purpose. However, maintaining a separate RL model for each
+production line on a manufacturing shop floor is costly and often infeasible.
+To address this, we enhance our deep RL model with an approach for dispatching
+policy transfer. This increases policy generalization and saves time and cost
+for model training and data collection. Experiments show that: (1) our approach
+performs the best in terms of total discounted reward and average lateness,
+tardiness, (2) the proposed policy transfer approach reduces training time and
+increases policy generalization.",2019-10-04,2019,2019-10,manufacturing
+Recurrent neural network approach for cyclic job shop scheduling problem,"While cyclic scheduling is involved in numerous real-world applications,
+solving the derived problem is still of exponential complexity. This paper
+focuses specifically on modelling the manufacturing application as a cyclic job
+shop problem and we have developed an efficient neural network approach to
+minimise the cycle time of a schedule. Our approach introduces an interesting
+model for a manufacturing production, and it is also very efficient, adaptive
+and flexible enough to work with other techniques. Experimental results
+validated the approach and confirmed our hypotheses about the system model and
+the efficiency of neural networks for such a class of problems.",2019-10-21,2019,2019-10,manufacturing
+One-Shot Recognition of Manufacturing Defects in Steel Surfaces,"Quality control is an essential process in manufacturing to make the product
+defect-free as well as to meet customer needs. The automation of this process
+is important to maintain high quality along with the high manufacturing
+throughput. With recent developments in deep learning and computer vision
+technologies, it has become possible to detect various features from the images
+with near-human accuracy. However, many of these approaches are data intensive.
+Training and deployment of such a system on manufacturing floors may become
+expensive and time-consuming. The need for large amounts of training data is
+one of the limitations of the applicability of these approaches in real-world
+manufacturing systems. In this work, we propose the application of a Siamese
+convolutional neural network to do one-shot recognition for such a task. Our
+results demonstrate how one-shot learning can be used in quality control of
+steel by identification of defects on the steel surface. This method can
+significantly reduce the requirements of training data and can also be run in
+real-time.",2020-05-12,2020,2020-05,manufacturing
+A Survey of Cybersecurity of Digital Manufacturing,"The Industry 4.0 concept promotes a digital manufacturing (DM) paradigm that
+can enhance quality and productivity, that reduces inventory and the lead-time
+for delivering custom, batch-of-one products based on achieving convergence of
+Additive, Subtractive, and Hybrid manufacturing machines, Automation and
+Robotic Systems, Sensors, Computing, and Communication Networks, Artificial
+Intelligence, and Big Data. A DM system consists of embedded electronics,
+sensors, actuators, control software, and inter-connectivity to enable the
+machines and the components within them to exchange data with other machines,
+components therein, the plant operators, the inventory managers, and customers.
+This paper presents the cybersecurity risks in the emerging DM context,
+assesses the impact on manufacturing, and identifies approaches to secure DM.",2020-06-09,2020,2020-06,manufacturing
+Using Semantic Web Services for AI-Based Research in Industry 4.0,"The transition to Industry 4.0 requires smart manufacturing systems that are
+easily configurable and provide a high level of flexibility during
+manufacturing in order to achieve mass customization or to support cloud
+manufacturing. To realize this, Cyber-Physical Systems (CPSs) combined with
+Artificial Intelligence (AI) methods find their way into manufacturing shop
+floors. For using AI methods in the context of Industry 4.0, semantic web
+services are indispensable to provide a reasonable abstraction of the
+underlying manufacturing capabilities. In this paper, we present semantic web
+services for AI-based research in Industry 4.0. Therefore, we developed more
+than 300 semantic web services for a physical simulation factory based on Web
+Ontology Language for Web Services (OWL-S) and Web Service Modeling Ontology
+(WSMO) and linked them to an already existing domain ontology for intelligent
+manufacturing control. Suitable for the requirements of CPS environments, our
+pre- and postconditions are verified in near real-time by invoking other
+semantic web services in contrast to complex reasoning within the knowledge
+base. Finally, we evaluate our implementation by executing a cyber-physical
+workflow composed of semantic web services using a workflow management system.",2020-07-07,2020,2020-07,manufacturing
+"Explainable Artificial Intelligence Based Fault Diagnosis and Insight
+  Harvesting for Steel Plates Manufacturing","With the advent of Industry 4.0, Data Science and Explainable Artificial
+Intelligence (XAI) has received considerable intrest in recent literature.
+However, the entry threshold into XAI, in terms of computer coding and the
+requisite mathematical apparatus, is really high. For fault diagnosis of steel
+plates, this work reports on a methodology of incorporating XAI based insights
+into the Data Science process of development of high precision classifier.
+Using Synthetic Minority Oversampling Technique (SMOTE) and notion of medoids,
+insights from XAI tools viz. Ceteris Peribus profiles, Partial Dependence and
+Breakdown profiles have been harvested. Additionally, insights in the form of
+IF-THEN rules have also been extracted from an optimized Random Forest and
+Association Rule Mining. Incorporating all the insights into a single ensemble
+classifier, a 10 fold cross validated performance of 94% has been achieved. In
+sum total, this work makes three main contributions viz.: methodology based
+upon utilization of medoids and SMOTE, of gleaning insights and incorporating
+into model development process. Secondly the insights themselves are
+contribution, as they benefit the human experts of steel manufacturing
+industry, and thirdly a high precision fault diagnosis classifier has been
+developed.",2020-08-10,2020,2020-08,manufacturing
+"AI-based Modeling and Data-driven Evaluation for Smart Manufacturing
+  Processes","Smart Manufacturing refers to optimization techniques that are implemented in
+production operations by utilizing advanced analytics approaches. With the
+widespread increase in deploying Industrial Internet of Things (IIoT) sensors
+in manufacturing processes, there is a progressive need for optimal and
+effective approaches to data management. Embracing Machine Learning and
+Artificial Intelligence to take advantage of manufacturing data can lead to
+efficient and intelligent automation. In this paper, we conduct a comprehensive
+analysis based on Evolutionary Computing and Deep Learning algorithms toward
+making semiconductor manufacturing smart. We propose a dynamic algorithm for
+gaining useful insights about semiconductor manufacturing processes and to
+address various challenges. We elaborate on the utilization of a Genetic
+Algorithm and Neural Network to propose an intelligent feature selection
+algorithm. Our objective is to provide an advanced solution for controlling
+manufacturing processes and to gain perspective on various dimensions that
+enable manufacturers to access effective predictive technologies.",2020-08-29,2020,2020-08,manufacturing
+"Toolpath design for additive manufacturing using deep reinforcement
+  learning","Toolpath optimization of metal-based additive manufacturing processes is
+currently hampered by the high-dimensionality of its design space. In this
+work, a reinforcement learning platform is proposed that dynamically learns
+toolpath strategies to build an arbitrary part. To this end, three prominent
+model-free reinforcement learning formulations are investigated to design
+additive manufacturing toolpaths and demonstrated for two cases of dense and
+sparse reward structures. The results indicate that this learning-based
+toolpath design approach achieves high scores, especially when a dense reward
+structure is present.",2020-09-30,2020,2020-09,manufacturing
+"Explainable Artificial Intelligence for Manufacturing Cost Estimation
+  and Machining Feature Visualization","Studies on manufacturing cost prediction based on deep learning have begun in
+recent years, but the cost prediction rationale cannot be explained because the
+models are still used as a black box. This study aims to propose a
+manufacturing cost prediction process for 3D computer-aided design (CAD) models
+using explainable artificial intelligence. The proposed process can visualize
+the machining features of the 3D CAD model that are influencing the increase in
+manufacturing costs. The proposed process consists of (1) data collection and
+pre-processing, (2) 3D deep learning architecture exploration, and (3)
+visualization to explain the prediction results. The proposed deep learning
+model shows high predictability of manufacturing cost for the computer
+numerical control (CNC) machined parts. In particular, using 3D
+gradient-weighted class activation mapping proves that the proposed model not
+only can detect the CNC machining features but also can differentiate the
+machining difficulty for the same feature. Using the proposed process, we can
+provide a design guidance to engineering designers in reducing manufacturing
+costs during the conceptual design phase. We can also provide real-time
+quotations and redesign proposals to online manufacturing platform customers.",2020-10-28,2020,2020-10,manufacturing
+Curiosity Based Reinforcement Learning on Robot Manufacturing Cell,"This paper introduces a novel combination of scheduling control on a flexible
+robot manufacturing cell with curiosity based reinforcement learning.
+Reinforcement learning has proved to be highly successful in solving tasks like
+robotics and scheduling. But this requires hand tuning of rewards in problem
+domains like robotics and scheduling even where the solution is not obvious. To
+this end, we apply a curiosity based reinforcement learning, using intrinsic
+motivation as a form of reward, on a flexible robot manufacturing cell to
+alleviate this problem. Further, the learning agents are embedded into the
+transportation robots to enable a generalized learning solution that can be
+applied to a variety of environments. In the first approach, the curiosity
+based reinforcement learning is applied to a simple structured robot
+manufacturing cell. And in the second approach, the same algorithm is applied
+to a graph structured robot manufacturing cell. Results from the experiments
+show that the agents are able to solve both the environments with the ability
+to transfer the curiosity module directly from one environment to another. We
+conclude that curiosity based learning on scheduling tasks provide a viable
+alternative to the reward shaped reinforcement learning traditionally used.",2020-11-17,2020,2020-11,manufacturing
+"A Deep Reinforcement Learning Based Multi-Criteria Decision Support
+  System for Textile Manufacturing Process Optimization","Textile manufacturing is a typical traditional industry involving high
+complexity in interconnected processes with limited capacity on the application
+of modern technologies. Decision-making in this domain generally takes multiple
+criteria into consideration, which usually arouses more complexity. To address
+this issue, the present paper proposes a decision support system that combines
+the intelligent data-based random forest (RF) models and a human knowledge
+based analytical hierarchical process (AHP) multi-criteria structure in
+accordance to the objective and the subjective factors of the textile
+manufacturing process. More importantly, the textile manufacturing process is
+described as the Markov decision process (MDP) paradigm, and a deep
+reinforcement learning scheme, the Deep Q-networks (DQN), is employed to
+optimize it. The effectiveness of this system has been validated in a case
+study of optimizing a textile ozonation process, showing that it can better
+master the challenging decision-making tasks in textile manufacturing
+processes.",2020-12-29,2020,2020-12,manufacturing
+"Reliability Analysis of Artificial Intelligence Systems Using Recurrent
+  Events Data from Autonomous Vehicles","Artificial intelligence (AI) systems have become increasingly common and the
+trend will continue. Examples of AI systems include autonomous vehicles (AV),
+computer vision, natural language processing, and AI medical experts. To allow
+for safe and effective deployment of AI systems, the reliability of such
+systems needs to be assessed. Traditionally, reliability assessment is based on
+reliability test data and the subsequent statistical modeling and analysis. The
+availability of reliability data for AI systems, however, is limited because
+such data are typically sensitive and proprietary. The California Department of
+Motor Vehicles (DMV) oversees and regulates an AV testing program, in which
+many AV manufacturers are conducting AV road tests. Manufacturers participating
+in the program are required to report recurrent disengagement events to
+California DMV. This information is being made available to the public. In this
+paper, we use recurrent disengagement events as a representation of the
+reliability of the AI system in AV, and propose a statistical framework for
+modeling and analyzing the recurrent events data from AV driving tests. We use
+traditional parametric models in software reliability and propose a new
+nonparametric model based on monotonic splines to describe the event process.
+We develop inference procedures for selecting the best models, quantifying
+uncertainty, and testing heterogeneity in the event process. We then analyze
+the recurrent events data from four AV manufacturers, and make inferences on
+the reliability of the AI systems in AV. We also describe how the proposed
+analysis can be applied to assess the reliability of other AI systems.",2021-02-02,2021,2021-02,manufacturing
+Actionable Cognitive Twins for Decision Making in Manufacturing,"Actionable Cognitive Twins are the next generation Digital Twins enhanced
+with cognitive capabilities through a knowledge graph and artificial
+intelligence models that provide insights and decision-making options to the
+users. The knowledge graph describes the domain-specific knowledge regarding
+entities and interrelationships related to a manufacturing setting. It also
+contains information on possible decision-making options that can assist
+decision-makers, such as planners or logisticians. In this paper, we propose a
+knowledge graph modeling approach to construct actionable cognitive twins for
+capturing specific knowledge related to demand forecasting and production
+planning in a manufacturing plant. The knowledge graph provides semantic
+descriptions and contextualization of the production lines and processes,
+including data identification and simulation or artificial intelligence
+algorithms and forecasts used to support them. Such semantics provide ground
+for inferencing, relating different knowledge types: creative, deductive,
+definitional, and inductive. To develop the knowledge graph models for
+describing the use case completely, systems thinking approach is proposed to
+design and verify the ontology, develop a knowledge graph and build an
+actionable cognitive twin. Finally, we evaluate our approach in two use cases
+developed for a European original equipment manufacturer related to the
+automotive industry as part of the European Horizon 2020 project FACTLOG.",2021-03-23,2021,2021-03,manufacturing
+Towards Active Learning Based Smart Assistant for Manufacturing,"A general approach for building a smart assistant that guides a user from a
+forecast generated by a machine learning model through a sequence of
+decision-making steps is presented. We develop a methodology to build such a
+system. The system is demonstrated on a demand forecasting use case in
+manufacturing. The methodology can be extended to several use cases in
+manufacturing. The system provides means for knowledge acquisition, gathering
+data from users. We envision active learning can be used to get data labels
+where labeled data is scarce.",2021-03-30,2021,2021-03,manufacturing
+"STARdom: an architecture for trusted and secure human-centered
+  manufacturing systems","There is a lack of a single architecture specification that addresses the
+needs of trusted and secure Artificial Intelligence systems with humans in the
+loop, such as human-centered manufacturing systems at the core of the evolution
+towards Industry 5.0. To realize this, we propose an architecture that
+integrates forecasts, Explainable Artificial Intelligence, supports collecting
+users' feedback, and uses Active Learning and Simulated Reality to enhance
+forecasts and provide decision-making recommendations. The architecture
+security is addressed as a general concern. We align the proposed architecture
+with the Big Data Value Association Reference Architecture Model. We tailor it
+for the domain of demand forecasting and validate it on a real-world case
+study.",2021-04-02,2021,2021-04,manufacturing
+"The Duo of Artificial Intelligence and Big Data for Industry 4.0: Review
+  of Applications, Techniques, Challenges, and Future Research Directions","The increasing need for economic, safe, and sustainable smart manufacturing
+combined with novel technological enablers, has paved the way for Artificial
+Intelligence (AI) and Big Data in support of smart manufacturing. This implies
+a substantial integration of AI, Industrial Internet of Things (IIoT),
+Robotics, Big data, Blockchain, 5G communications, in support of smart
+manufacturing and the dynamical processes in modern industries. In this paper,
+we provide a comprehensive overview of different aspects of AI and Big Data in
+Industry 4.0 with a particular focus on key applications, techniques, the
+concepts involved, key enabling technologies, challenges, and research
+perspective towards deployment of Industry 5.0. In detail, we highlight and
+analyze how the duo of AI and Big Data is helping in different applications of
+Industry 4.0. We also highlight key challenges in a successful deployment of AI
+and Big Data methods in smart industries with a particular emphasis on
+data-related issues, such as availability, bias, auditing, management,
+interpretability, communication, and different adversarial attacks and security
+issues. In a nutshell, we have explored the significance of AI and Big data
+towards Industry 4.0 applications through panoramic reviews and discussions. We
+believe, this work will provide a baseline for future research in the domain.",2021-04-06,2021,2021-04,manufacturing
+"The Role of Time and Data: Online Conformance Checking in the
+  Manufacturing Domain","Process mining has matured as analysis instrument for process-oriented data
+in recent years. Manufacturing is a challenging domain that craves for
+process-oriented technologies to address digitalization challenges. We found
+that process mining creates high expectations, but its implementation and usage
+by manufacturing experts such as process supervisors and shopfloor workers
+remain unclear to a certain extent. Reason (1) is that even though
+manufacturing allows for well-structured processes, the actual workflow is
+rarely captured in a process model. Even if a model is available, a software
+for orchestrating and logging the execution is often missing. Reason (2) refers
+to the work reality in manufacturing: a process instance is started by a
+shopfloor worker who then turns to work on other things. Hence continuous
+monitoring of the process instances does not happen, i.e., process monitoring
+is merely a secondary task, and the shopfloor worker can only react to
+problems/errors that have already occurred. (1) and (2) motivate the goals of
+this study that is driven by Technical Action Research (TAR). Based on the
+experimental artifact TIDATE -- a lightweight process execution and mining
+framework -- it is studied how the correct execution of process instances can
+be ensured and how a data set suitable for process mining can be generated at
+run time in a real-world setting. Secondly, it is investigated whether and how
+process mining supports domain experts during process monitoring as a secondary
+task. The findings emphasize the importance of online conformance checking in
+manufacturing and show how appropriate data sets can be identified and
+generated.",2021-05-04,2021,2021-05,manufacturing
+"XAI-KG: knowledge graph to support XAI and decision-making in
+  manufacturing","The increasing adoption of artificial intelligence requires accurate
+forecasts and means to understand the reasoning of artificial intelligence
+models behind such a forecast. Explainable Artificial Intelligence (XAI) aims
+to provide cues for why a model issued a certain prediction. Such cues are of
+utmost importance to decision-making since they provide insights on the
+features that influenced most certain forecasts and let the user decide if the
+forecast can be trusted. Though many techniques were developed to explain
+black-box models, little research was done on assessing the quality of those
+explanations and their influence on decision-making. We propose an ontology and
+knowledge graph to support collecting feedback regarding forecasts, forecast
+explanations, recommended decision-making options, and user actions. This way,
+we provide means to improve forecasting models, explanations, and
+recommendations of decision-making options. We tailor the knowledge graph for
+the domain of demand forecasting and validate it on real-world data.",2021-05-05,2021,2021-05,manufacturing
+A Review of Explainable Artificial Intelligence in Manufacturing,"The implementation of Artificial Intelligence (AI) systems in the
+manufacturing domain enables higher production efficiency, outstanding
+performance, and safer operations, leveraging powerful tools such as deep
+learning and reinforcement learning techniques. Despite the high accuracy of
+these models, they are mostly considered black boxes: they are unintelligible
+to the human. Opaqueness affects trust in the system, a factor that is critical
+in the context of decision-making. We present an overview of Explainable
+Artificial Intelligence (XAI) techniques as a means of boosting the
+transparency of models. We analyze different metrics to evaluate these
+techniques and describe several application scenarios in the manufacturing
+domain.",2021-07-05,2021,2021-07,manufacturing
+Monte Carlo Tree Search for high precision manufacturing,"Monte Carlo Tree Search (MCTS) has shown its strength for a lot of
+deterministic and stochastic examples, but literature lacks reports of
+applications to real world industrial processes. Common reasons for this are
+that there is no efficient simulator of the process available or there exist
+problems in applying MCTS to the complex rules of the process. In this paper,
+we apply MCTS for optimizing a high-precision manufacturing process that has
+stochastic and partially observable outcomes. We make use of an
+expert-knowledge-based simulator and adapt the MCTS default policy to deal with
+the manufacturing process.",2021-07-28,2021,2021-07,manufacturing
+"Artificial Intelligence-Driven Customized Manufacturing Factory: Key
+  Technologies, Applications, and Challenges","The traditional production paradigm of large batch production does not offer
+flexibility towards satisfying the requirements of individual customers. A new
+generation of smart factories is expected to support new multi-variety and
+small-batch customized production modes. For that, Artificial Intelligence (AI)
+is enabling higher value-added manufacturing by accelerating the integration of
+manufacturing and information communication technologies, including computing,
+communication, and control. The characteristics of a customized smart factory
+are to include self-perception, operations optimization, dynamic
+reconfiguration, and intelligent decision-making. The AI technologies will
+allow manufacturing systems to perceive the environment, adapt to external
+needs, and extract the processed knowledge, including business models, such as
+intelligent production, networked collaboration, and extended service models.
+  This paper focuses on the implementation of AI in customized manufacturing
+(CM). The architecture of an AI-driven customized smart factory is presented.
+Details of intelligent manufacturing devices, intelligent information
+interaction, and the construction of a flexible manufacturing line are
+showcased. The state-of-the-art AI technologies of potential use in CM, i.e.,
+machine learning, multi-agent systems, Internet of Things, big data, and
+cloud-edge computing are surveyed. The AI-enabled technologies in a customized
+smart factory are validated with a case study of customized packaging. The
+experimental results have demonstrated that the AI-assisted CM offers the
+possibility of higher production flexibility and efficiency. Challenges and
+solutions related to AI in CM are also discussed.",2021-08-07,2021,2021-08,manufacturing
+Active Learning for Automated Visual Inspection of Manufactured Products,"Quality control is a key activity performed by manufacturing enterprises to
+ensure products meet quality standards and avoid potential damage to the
+brand's reputation. The decreased cost of sensors and connectivity enabled an
+increasing digitalization of manufacturing. In addition, artificial
+intelligence enables higher degrees of automation, reducing overall costs and
+time required for defect inspection. In this research, we compare three active
+learning approaches and five machine learning algorithms applied to visual
+defect inspection with real-world data provided by Philips Consumer Lifestyle
+BV. Our results show that active learning reduces the data labeling effort
+without detriment to the models' performance.",2021-09-06,2021,2021-09,manufacturing
+Graph Learning for Cognitive Digital Twins in Manufacturing Systems,"Future manufacturing requires complex systems that connect simulation
+platforms and virtualization with physical data from industrial processes.
+Digital twins incorporate a physical twin, a digital twin, and the connection
+between the two. Benefits of using digital twins, especially in manufacturing,
+are abundant as they can increase efficiency across an entire manufacturing
+life-cycle. The digital twin concept has become increasingly sophisticated and
+capable over time, enabled by rises in many technologies. In this paper, we
+detail the cognitive digital twin as the next stage of advancement of a digital
+twin that will help realize the vision of Industry 4.0. Cognitive digital twins
+will allow enterprises to creatively, effectively, and efficiently exploit
+implicit knowledge drawn from the experience of existing manufacturing systems.
+They also enable more autonomous decisions and control, while improving the
+performance across the enterprise (at scale). This paper presents graph
+learning as one potential pathway towards enabling cognitive functionalities in
+manufacturing digital twins. A novel approach to realize cognitive digital
+twins in the product design stage of manufacturing that utilizes graph learning
+is presented.",2021-09-17,2021,2021-09,manufacturing
+"Ontology-Based Skill Description Learning for Flexible Production
+  Systems","The increasing importance of resource-efficient production entails that
+manufacturing companies have to create a more dynamic production environment,
+with flexible manufacturing machines and processes. To fully utilize this
+potential of dynamic manufacturing through automatic production planning,
+formal skill descriptions of the machines are essential. However, generating
+those skill descriptions in a manual fashion is labor-intensive and requires
+extensive domain-knowledge. In this contribution an ontology-based
+semi-automatic skill description system that utilizes production logs and
+industrial ontologies through inductive logic programming is introduced and
+benefits and drawbacks of the proposed solution are evaluated.",2021-11-25,2021,2021-11,manufacturing
+"TinyDefectNet: Highly Compact Deep Neural Network Architecture for
+  High-Throughput Manufacturing Visual Quality Inspection","A critical aspect in the manufacturing process is the visual quality
+inspection of manufactured components for defects and flaws. Human-only visual
+inspection can be very time-consuming and laborious, and is a significant
+bottleneck especially for high-throughput manufacturing scenarios. Given
+significant advances in the field of deep learning, automated visual quality
+inspection can lead to highly efficient and reliable detection of defects and
+flaws during the manufacturing process. However, deep learning-driven visual
+inspection methods often necessitate significant computational resources, thus
+limiting throughput and act as a bottleneck to widespread adoption for enabling
+smart factories. In this study, we investigated the utilization of a
+machine-driven design exploration approach to create TinyDefectNet, a highly
+compact deep convolutional network architecture tailored for high-throughput
+manufacturing visual quality inspection. TinyDefectNet comprises of just ~427K
+parameters and has a computational complexity of ~97M FLOPs, yet achieving a
+detection accuracy of a state-of-the-art architecture for the task of surface
+defect detection on the NEU defect benchmark dataset. As such, TinyDefectNet
+can achieve the same level of detection performance at 52$\times$ lower
+architectural complexity and 11x lower computational complexity. Furthermore,
+TinyDefectNet was deployed on an AMD EPYC 7R32, and achieved 7.6x faster
+throughput using the native Tensorflow environment and 9x faster throughput
+using AMD ZenDNN accelerator library. Finally, explainability-driven
+performance validation strategy was conducted to ensure correct decision-making
+behaviour was exhibited by TinyDefectNet to improve trust in its usage by
+operators and inspectors.",2021-11-29,2021,2021-11,manufacturing
+"Towards a Reference Software Architecture for Human-AI Teaming in Smart
+  Manufacturing","With the proliferation of AI-enabled software systems in smart manufacturing,
+the role of such systems moves away from a reactive to a proactive role that
+provides context-specific support to manufacturing operators. In the frame of
+the EU funded Teaming.AI project, we identified the monitoring of teaming
+aspects in human-AI collaboration, the runtime monitoring and validation of
+ethical policies, and the support for experimentation with data and machine
+learning algorithms as the most relevant challenges for human-AI teaming in
+smart manufacturing. Based on these challenges, we developed a reference
+software architecture based on knowledge graphs, tracking and scene analysis,
+and components for relational machine learning with a particular focus on its
+scalability. Our approach uses knowledge graphs to capture product- and process
+specific knowledge in the manufacturing process and to utilize it for
+relational machine learning. This allows for context-specific recommendations
+for actions in the manufacturing process for the optimization of product
+quality and the prevention of physical harm. The empirical validation of this
+software architecture will be conducted in cooperation with three large-scale
+companies in the automotive, energy systems, and precision machining domain. In
+this paper we discuss the identified challenges for such a reference software
+architecture, present its preliminary status, and sketch our further research
+vision in this project.",2022-01-13,2022,2022-01,manufacturing
+"Accelerating Part-Scale Simulation in Liquid Metal Jet Additive
+  Manufacturing via Operator Learning","Predicting part quality for additive manufacturing (AM) processes requires
+high-fidelity numerical simulation of partial differential equations (PDEs)
+governing process multiphysics on a scale of minimum manufacturable features.
+This makes part-scale predictions computationally demanding, especially when
+they require many small-scale simulations. We consider drop-on-demand liquid
+metal jetting (LMJ) as an illustrative example of such computational
+complexity. A model describing droplet coalescence for LMJ may include coupled
+incompressible fluid flow, heat transfer, and phase change equations.
+Numerically solving these equations becomes prohibitively expensive when
+simulating the build process for a full part consisting of thousands to
+millions of droplets. Reduced-order models (ROMs) based on neural networks (NN)
+or k-nearest neighbor (kNN) algorithms have been built to replace the original
+physics-based solver and are computationally tractable for part-level
+simulations. However, their quick inference capabilities often come at the
+expense of accuracy, robustness, and generalizability. We apply an operator
+learning (OL) approach to learn a mapping between initial and final states of
+the droplet coalescence process for enabling rapid and accurate part-scale
+build simulation. Preliminary results suggest that OL requires
+order-of-magnitude fewer data points than a kNN approach and is generalizable
+beyond the training set while achieving similar prediction error.",2022-02-02,2022,2022-02,manufacturing
+"Human-Centric Artificial Intelligence Architecture for Industry 5.0
+  Applications","Human-centricity is the core value behind the evolution of manufacturing
+towards Industry 5.0. Nevertheless, there is a lack of architecture that
+considers safety, trustworthiness, and human-centricity at its core. Therefore,
+we propose an architecture that integrates Artificial Intelligence (Active
+Learning, Forecasting, Explainable Artificial Intelligence), simulated reality,
+decision-making, and users' feedback, focusing on synergies between humans and
+machines. Furthermore, we align the proposed architecture with the Big Data
+Value Association Reference Architecture Model. Finally, we validate it on
+three use cases from real-world case studies.",2022-03-21,2022,2022-03,manufacturing
+Enriching Artificial Intelligence Explanations with Knowledge Fragments,"Artificial Intelligence models are increasingly used in manufacturing to
+inform decision-making. Responsible decision-making requires accurate forecasts
+and an understanding of the models' behavior. Furthermore, the insights into
+models' rationale can be enriched with domain knowledge. This research builds
+explanations considering feature rankings for a particular forecast, enriching
+them with media news entries, datasets' metadata, and entries from the Google
+Knowledge Graph. We compare two approaches (embeddings-based and
+semantic-based) on a real-world use case regarding demand forecasting.",2022-04-12,2022,2022-04,manufacturing
+Automated visual inspection of silicon detectors in CMS experiment,"In the CMS experiment at CERN, Geneva, a large number of HGCAL sensor modules
+are fabricated in advanced laboratories around the world. Each sensor module
+contains about 700 checkpoints for visual inspection thus making it almost
+impossible to carry out such inspection manually. As artificial intelligence is
+more and more widely used in manufacturing, traditional detection technologies
+are gradually being intelligent. In order to more accurately evaluate the
+checkpoints, we propose to use deep learning-based object detection techniques
+to detect manufacturing defects in testing large numbers of modules
+automatically.",2022-06-03,2022,2022-06,manufacturing
+A Capability and Skill Model for Heterogeneous Autonomous Robots,"Teams of heterogeneous autonomous robots become increasingly important due to
+their facilitation of various complex tasks. For such heterogeneous robots,
+there is currently no consistent way of describing the functions that each
+robot provides. In the field of manufacturing, capability modeling is
+considered a promising approach to semantically model functions provided by
+different machines. This contribution investigates how to apply and extend
+capability models from manufacturing to the field of autonomous robots and
+presents an approach for such a capability model.",2022-09-22,2022,2022-09,manufacturing
+"Mitigating Attacks on Artificial Intelligence-based Spectrum Sensing for
+  Cellular Network Signals","Cellular networks (LTE, 5G, and beyond) are dramatically growing with high
+demand from consumers and more promising than the other wireless networks with
+advanced telecommunication technologies. The main goal of these networks is to
+connect billions of devices, systems, and users with high-speed data
+transmission, high cell capacity, and low latency, as well as to support a wide
+range of new applications, such as virtual reality, metaverse, telehealth,
+online education, autonomous and flying vehicles, advanced manufacturing, and
+many more. To achieve these goals, spectrum sensing has been paid more
+attention, along with new approaches using artificial intelligence (AI) methods
+for spectrum management in cellular networks. This paper provides a
+vulnerability analysis of spectrum sensing approaches using AI-based semantic
+segmentation models for identifying cellular network signals under adversarial
+attacks with and without defensive distillation methods. The results showed
+that mitigation methods can significantly reduce the vulnerabilities of
+AI-based spectrum sensing models against adversarial attacks.",2022-09-27,2022,2022-09,manufacturing
+An Ontology for Defect Detection in Metal Additive Manufacturing,"A key challenge for Industry 4.0 applications is to develop control systems
+for automated manufacturing services that are capable of addressing both data
+integration and semantic interoperability issues, as well as monitoring and
+decision making tasks. To address such an issue in advanced manufacturing
+systems, principled knowledge representation approaches based on formal
+ontologies have been proposed as a foundation to information management and
+maintenance in presence of heterogeneous data sources. In addition, ontologies
+provide reasoning and querying capabilities to aid domain experts and end users
+in the context of constraint validation and decision making. Finally,
+ontology-based approaches to advanced manufacturing services can support the
+explainability and interpretability of the behaviour of monitoring, control,
+and simulation systems that are based on black-box machine learning algorithms.
+In this work, we provide a novel ontology for the classification of
+process-induced defects known from the metal additive manufacturing literature.
+Together with a formal representation of the characterising features and
+sources of defects, we integrate our knowledge base with state-of-the-art
+ontologies in the field. Our knowledge base aims at enhancing the modelling
+capabilities of additive manufacturing ontologies by adding further defect
+analysis terminology and diagnostic inference features.",2022-09-29,2022,2022-09,manufacturing
+"Learning Causal Graphs in Manufacturing Domains using Structural
+  Equation Models","Many production processes are characterized by numerous and complex
+cause-and-effect relationships. Since they are only partially known they pose a
+challenge to effective process control. In this work we present how Structural
+Equation Models can be used for deriving cause-and-effect relationships from
+the combination of prior knowledge and process data in the manufacturing
+domain. Compared to existing applications, we do not assume linear
+relationships leading to more informative results.",2022-10-26,2022,2022-10,manufacturing
+"SolderNet: Towards Trustworthy Visual Inspection of Solder Joints in
+  Electronics Manufacturing Using Explainable Artificial Intelligence","In electronics manufacturing, solder joint defects are a common problem
+affecting a variety of printed circuit board components. To identify and
+correct solder joint defects, the solder joints on a circuit board are
+typically inspected manually by trained human inspectors, which is a very
+time-consuming and error-prone process. To improve both inspection efficiency
+and accuracy, in this work we describe an explainable deep learning-based
+visual quality inspection system tailored for visual inspection of solder
+joints in electronics manufacturing environments. At the core of this system is
+an explainable solder joint defect identification system called SolderNet which
+we design and implement with trust and transparency in mind. While several
+challenges remain before the full system can be developed and deployed, this
+study presents important progress towards trustworthy visual inspection of
+solder joints in electronics manufacturing.",2022-11-18,2022,2022-11,manufacturing
+"Image-based Artificial Intelligence empowered surrogate model and shape
+  morpher for real-time blank shape optimisation in the hot stamping process","As the complexity of modern manufacturing technologies increases, traditional
+trial-and-error design, which requires iterative and expensive simulations,
+becomes unreliable and time-consuming. This difficulty is especially
+significant for the design of hot-stamped safety-critical components, such as
+ultra-high-strength-steel (UHSS) B-pillars. To reduce design costs and ensure
+manufacturability, scalar-based Artificial-Intelligence-empowered surrogate
+modelling (SAISM) has been investigated and implemented, which can allow
+real-time manufacturability-constrained structural design optimisation.
+However, SAISM suffers from low accuracy and generalisability, and usually
+requires a high volume of training samples. To solve this problem, an
+image-based Artificial-intelligence-empowered surrogate modelling (IAISM)
+approach is developed in this research, in combination with an
+auto-decoder-based blank shape generator. The IAISM, which is based on a
+Mask-Res-SE-U-Net architecture, is trained to predict the full thinning field
+of the as-formed component given an arbitrary blank shape. Excellent prediction
+performance of IAISM is achieved with only 256 training samples, which
+indicates the small-data learning nature of engineering AI tasks using
+structured data representations. The trained auto-decoder, trained
+Mask-Res-SE-U-Net, and Adam optimiser are integrated to conduct blank
+optimisation by modifying the latent vector. The optimiser can rapidly find
+blank shapes that satisfy manufacturability criteria. As a high-accuracy and
+generalisable surrogate modelling and optimisation tool, the proposed pipeline
+is promising to be integrated into a full-chain digital twin to conduct
+real-time, multi-objective design optimisation.",2022-12-01,2022,2022-12,manufacturing
+"Deep-Learning Quantitative Structural Characterization in Additive
+  Manufacturing","With a goal of accelerating fabrication of additively manufactured components
+with precise microstructures, we developed a method for structural
+characterization of key features in additively manufactured materials and
+parts. The method utilizes deep learning based on an image-to-image translation
+conditional Generative Adversarial Neural Network architecture and enables fast
+and incrementally more accurate predictions of the prevalent geometric
+features, including melt pool boundaries and printing induced defects visible
+in etched optical images. These structural details are heterogeneous in nature.
+Our method specifies the microstructure state of an additive built via
+statistical distribution of structural details, based on an ensemble of
+collected images. Extensions of the method are proposed to address Artificial
+Intelligence implementation of developed machine learning model for in real
+time control of additive manufacturing.",2023-01-20,2023,2023-01,manufacturing
+"Time-Series Pattern Recognition in Smart Manufacturing Systems: A
+  Literature Review and Ontology","Since the inception of Industry 4.0 in 2012, emerging technologies have
+enabled the acquisition of vast amounts of data from diverse sources such as
+machine tools, robust and affordable sensor systems with advanced information
+models, and other sources within Smart Manufacturing Systems (SMS). As a
+result, the amount of data that is available in manufacturing settings has
+exploded, allowing data-hungry tools such as Artificial Intelligence (AI) and
+Machine Learning (ML) to be leveraged. Time-series analytics has been
+successfully applied in a variety of industries, and that success is now being
+migrated to pattern recognition applications in manufacturing to support higher
+quality products, zero defect manufacturing, and improved customer
+satisfaction. However, the diverse landscape of manufacturing presents a
+challenge for successfully solving problems in industry using time-series
+pattern recognition. The resulting research gap of understanding and applying
+the subject matter of time-series pattern recognition in manufacturing is a
+major limiting factor for adoption in industry. The purpose of this paper is to
+provide a structured perspective of the current state of time-series pattern
+recognition in manufacturing with a problem-solving focus. By using an ontology
+to classify and define concepts, how they are structured, their properties, the
+relationships between them, and considerations when applying them, this paper
+aims to provide practical and actionable guidelines for application and
+recommendations for advancing time-series analytics.",2023-01-29,2023,2023-01,manufacturing
+"Semiconductor Fab Scheduling with Self-Supervised and Reinforcement
+  Learning","Semiconductor manufacturing is a notoriously complex and costly multi-step
+process involving a long sequence of operations on expensive and
+quantity-limited equipment. Recent chip shortages and their impacts have
+highlighted the importance of semiconductors in the global supply chains and
+how reliant on those our daily lives are. Due to the investment cost,
+environmental impact, and time scale needed to build new factories, it is
+difficult to ramp up production when demand spikes.
+  This work introduces a method to successfully learn to schedule a
+semiconductor manufacturing facility more efficiently using deep reinforcement
+and self-supervised learning. We propose the first adaptive scheduling approach
+to handle complex, continuous, stochastic, dynamic, modern semiconductor
+manufacturing models. Our method outperforms the traditional hierarchical
+dispatching strategies typically used in semiconductor manufacturing plants,
+substantially reducing each order's tardiness and time until completion. As a
+result, our method yields a better allocation of resources in the semiconductor
+manufacturing process.",2023-02-14,2023,2023-02,manufacturing
+"Machine Learning Approaches in Agile Manufacturing with Recycled
+  Materials for Sustainability","It is important to develop sustainable processes in materials science and
+manufacturing that are environmentally friendly. AI can play a significant role
+in decision support here as evident from our earlier research leading to tools
+developed using our proposed machine learning based approaches. Such tools
+served the purpose of computational estimation and expert systems. This
+research addresses environmental sustainability in materials science via
+decision support in agile manufacturing using recycled and reclaimed materials.
+It is a safe and responsible way to turn a specific waste stream to value-added
+products. We propose to use data-driven methods in AI by applying machine
+learning models for predictive analysis to guide decision support in
+manufacturing. This includes harnessing artificial neural networks to study
+parameters affecting heat treatment of materials and impacts on their
+properties; deep learning via advances such as convolutional neural networks to
+explore grain size detection; and other classifiers such as Random Forests to
+analyze phrase fraction detection. Results with all these methods seem
+promising to embark on further work, e.g. ANN yields accuracy around 90\% for
+predicting micro-structure development as per quench tempering, a heat
+treatment process. Future work entails several challenges: investigating
+various computer vision models (VGG, ResNet etc.) to find optimal accuracy,
+efficiency and robustness adequate for sustainable processes; creating
+domain-specific tools using machine learning for decision support in agile
+manufacturing; and assessing impacts on sustainability with metrics
+incorporating the appropriate use of recycled materials as well as the
+effectiveness of developed products. Our work makes impacts on green technology
+for smart manufacturing, and is motivated by related work in the highly
+interesting realm of AI for materials science.",2023-03-15,2023,2023-03,manufacturing
+"Opportunities and Challenges to Integrate Artificial Intelligence into
+  Manufacturing Systems: Thoughts from a Panel Discussion","Rapid advances in artificial intelligence (AI) have the potential to
+significantly increase the productivity, quality, and profitability in future
+manufacturing systems. Traditional mass-production will give way to
+personalized production, with each item made to order, at the low cost and
+high-quality consumers have come to expect. Manufacturing systems will have the
+intelligence to be resilient to multiple disruptions, from small-scale machine
+breakdowns, to large-scale natural disasters. Products will be made with higher
+precision and lower variability. While gains have been made towards the
+development of these factories of the future, many challenges remain to fully
+realize this vision. To consider the challenges and opportunities associated
+with this topic, a panel of experts from Industry, Academia, and Government was
+invited to participate in an active discussion at the 2022 Modeling, Estimation
+and Control Conference (MECC) held in Jersey City, New Jersey from October 3-
+5, 2022. The panel discussion focused on the challenges and opportunities to
+more fully integrate AI into manufacturing systems. Three overarching themes
+emerged from the panel discussion. First, to be successful, AI will need to
+work seamlessly, and in an integrated manner with humans (and vice versa).
+Second, significant gaps in the infrastructure needed to enable the full
+potential of AI into the manufacturing ecosystem, including sufficient data
+availability, storage, and analysis, must be addressed. And finally, improved
+coordination between universities, industry, and government agencies can
+facilitate greater opportunities to push the field forward. This article
+briefly summarizes these three themes, and concludes with a discussion of
+promising directions.",2023-03-20,2023,2023-03,manufacturing
+"Shapley-based Explainable AI for Clustering Applications in Fault
+  Diagnosis and Prognosis","Data-driven artificial intelligence models require explainability in
+intelligent manufacturing to streamline adoption and trust in modern industry.
+However, recently developed explainable artificial intelligence (XAI)
+techniques that estimate feature contributions on a model-agnostic level such
+as SHapley Additive exPlanations (SHAP) have not yet been evaluated for
+semi-supervised fault diagnosis and prognosis problems characterized by class
+imbalance and weakly labeled datasets. This paper explores the potential of
+utilizing Shapley values for a new clustering framework compatible with
+semi-supervised learning problems, loosening the strict supervision requirement
+of current XAI techniques. This broad methodology is validated on two case
+studies: a heatmap image dataset obtained from a semiconductor manufacturing
+process featuring class imbalance, and a benchmark dataset utilized in the 2021
+Prognostics and Health Management (PHM) Data Challenge. Semi-supervised
+clustering based on Shapley values significantly improves upon clustering
+quality compared to the fully unsupervised case, deriving information-dense and
+meaningful clusters that relate to underlying fault diagnosis model
+predictions. These clusters can also be characterized by high-precision
+decision rules in terms of original feature values, as demonstrated in the
+second case study. The rules, limited to 1-2 terms utilizing original feature
+scales, describe 12 out of the 16 derived equipment failure clusters with
+precision exceeding 0.85, showcasing the promising utility of the explainable
+clustering framework for intelligent manufacturing applications.",2023-03-25,2023,2023-03,manufacturing
+"Blockchain-based Access Control for Secure Smart Industry Management
+  Systems","Smart manufacturing systems involve a large number of interconnected devices
+resulting in massive data generation. Cloud computing technology has recently
+gained increasing attention in smart manufacturing systems for facilitating
+cost-effective service provisioning and massive data management. In a
+cloud-based manufacturing system, ensuring authorized access to the data is
+crucial. A cloud platform is operated under a single authority. Hence, a cloud
+platform is prone to a single point of failure and vulnerable to adversaries.
+An internal or external adversary can easily modify users' access to allow
+unauthorized users to access the data. This paper proposes a role-based access
+control to prevent modification attacks by leveraging blockchain and smart
+contracts in a cloud-based smart manufacturing system. The role-based access
+control is developed to determine users' roles and rights in smart contracts.
+The smart contracts are then deployed to the private blockchain network. We
+evaluate our solution by utilizing Ethereum private blockchain network to
+deploy the smart contract. The experimental results demonstrate the feasibility
+and evaluation of the proposed framework's performance.",2023-04-26,2023,2023-04,manufacturing
+"Neurosymbolic Artificial Intelligence (NSAI) based Algorithm for
+  predicting the Impact Strength of Additive Manufactured Polylactic Acid (PLA)
+  Specimens","In this study, we introduce application of Neurosymbolic Artificial
+Intelligence (NSAI) for predicting the impact strength of additive manufactured
+polylactic acid (PLA) components, representing the first-ever use of NSAI in
+the domain of additive manufacturing. The NSAI model amalgamates the advantages
+of neural networks and symbolic AI, offering a more robust and accurate
+prediction than traditional machine learning techniques. Experimental data was
+collected and synthetically augmented to 1000 data points, enhancing the
+model's precision. The Neurosymbolic model was developed using a neural network
+architecture comprising input, two hidden layers, and an output layer, followed
+by a decision tree regressor representing the symbolic component. The model's
+performance was benchmarked against a Simple Artificial Neural Network (ANN)
+model by assessing mean squared error (MSE) and R-squared (R2) values for both
+training and validation datasets. The results reveal that the Neurosymbolic
+model surpasses the Simple ANN model, attaining lower MSE and higher R2 values
+for both training and validation sets. This innovative application of the
+Neurosymbolic approach in estimating the impact strength of additive
+manufactured PLA components underscores its potential for optimizing the
+additive manufacturing process. Future research could investigate further
+refinements to the Neurosymbolic model, extend its application to other
+materials and additive manufacturing processes, and incorporate real-time
+monitoring and control for enhanced process optimization.",2023-05-07,2023,2023-05,manufacturing
+"Trustworthy, responsible, ethical AI in manufacturing and supply chains:
+  synthesis and emerging research questions","While the increased use of AI in the manufacturing sector has been widely
+noted, there is little understanding on the risks that it may raise in a
+manufacturing organisation. Although various high level frameworks and
+definitions have been proposed to consolidate potential risks, practitioners
+struggle with understanding and implementing them.
+  This lack of understanding exposes manufacturing to a multitude of risks,
+including the organisation, its workers, as well as suppliers and clients. In
+this paper, we explore and interpret the applicability of responsible, ethical,
+and trustworthy AI within the context of manufacturing. We then use a broadened
+adaptation of a machine learning lifecycle to discuss, through the use of
+illustrative examples, how each step may result in a given AI trustworthiness
+concern. We additionally propose a number of research questions to the
+manufacturing research community, in order to help guide future research so
+that the economic and societal benefits envisaged by AI in manufacturing are
+delivered safely and responsibly.",2023-05-19,2023,2023-05,manufacturing
+"Flexible and Inherently Comprehensible Knowledge Representation for
+  Data-Efficient Learning and Trustworthy Human-Machine Teaming in
+  Manufacturing Environments","Trustworthiness of artificially intelligent agents is vital for the
+acceptance of human-machine teaming in industrial manufacturing environments.
+Predictable behaviours and explainable (and understandable) rationale allow
+humans collaborating with (and building) these agents to understand their
+motivations and therefore validate decisions that are made. To that aim, we
+make use of G\""ardenfors's cognitively inspired Conceptual Space framework to
+represent the agent's knowledge using concepts as convex regions in a space
+spanned by inherently comprehensible quality dimensions. A simple typicality
+quantification model is built on top of it to determine fuzzy category
+membership and classify instances interpretably. We apply it on a use case from
+the manufacturing domain, using objects' physical properties obtained from
+cobots' onboard sensors and utilisation properties from crowdsourced
+commonsense knowledge available at public knowledge bases. Such flexible
+knowledge representation based on property decomposition allows for
+data-efficient representation learning of typically highly specialist or
+specific manufacturing artefacts. In such a setting, traditional data-driven
+(e.g., computer vision-based) classification approaches would struggle due to
+training data scarcity. This allows for comprehensibility of an AI agent's
+acquired knowledge by the human collaborator thus contributing to
+trustworthiness. We situate our approach within an existing explainability
+framework specifying explanation desiderata. We provide arguments for our
+system's applicability and appropriateness for different roles of human agents
+collaborating with the AI system throughout its design, validation, and
+operation.",2023-05-19,2023,2023-05,manufacturing
+"A Survey of Explainable AI and Proposal for a Discipline of Explanation
+  Engineering","In this survey paper, we deep dive into the field of Explainable Artificial
+Intelligence (XAI). After introducing the scope of this paper, we start by
+discussing what an ""explanation"" really is. We then move on to discuss some of
+the existing approaches to XAI and build a taxonomy of the most popular
+methods. Next, we also look at a few applications of these and other XAI
+techniques in four primary domains: finance, autonomous driving, healthcare and
+manufacturing. We end by introducing a promising discipline, ""Explanation
+Engineering,"" which includes a systematic approach for designing explainability
+into AI systems.",2023-05-20,2023,2023-05,manufacturing
+"Employing Explainable Artificial Intelligence (XAI) Methodologies to
+  Analyze the Correlation between Input Variables and Tensile Strength in
+  Additively Manufactured Samples","This research paper explores the impact of various input parameters,
+including Infill percentage, Layer Height, Extrusion Temperature, and Print
+Speed, on the resulting Tensile Strength in objects produced through additive
+manufacturing. The main objective of this study is to enhance our understanding
+of the correlation between the input parameters and Tensile Strength, as well
+as to identify the key factors influencing the performance of the additive
+manufacturing process. To achieve this objective, we introduced the utilization
+of Explainable Artificial Intelligence (XAI) techniques for the first time,
+which allowed us to analyze the data and gain valuable insights into the
+system's behavior. Specifically, we employed SHAP (SHapley Additive
+exPlanations), a widely adopted framework for interpreting machine learning
+model predictions, to provide explanations for the behavior of a machine
+learning model trained on the data. Our findings reveal that the Infill
+percentage and Extrusion Temperature have the most significant influence on
+Tensile Strength, while the impact of Layer Height and Print Speed is
+relatively minor. Furthermore, we discovered that the relationship between the
+input parameters and Tensile Strength is highly intricate and nonlinear, making
+it difficult to accurately describe using simple linear models.",2023-05-28,2023,2023-05,manufacturing
+Human in the AI loop via xAI and Active Learning for Visual Inspection,"Industrial revolutions have historically disrupted manufacturing by
+introducing automation into production. Increasing automation reshapes the role
+of the human worker. Advances in robotics and artificial intelligence open new
+frontiers of human-machine collaboration. Such collaboration can be realized
+considering two sub-fields of artificial intelligence: active learning and
+explainable artificial intelligence. Active learning aims to devise strategies
+that help obtain data that allows machine learning algorithms to learn better.
+On the other hand, explainable artificial intelligence aims to make the machine
+learning models intelligible to the human person. The present work first
+describes Industry 5.0, human-machine collaboration, and state-of-the-art
+regarding quality inspection, emphasizing visual inspection. Then it outlines
+how human-machine collaboration could be realized and enhanced in visual
+inspection. Finally, some of the results obtained in the EU H2020 STAR project
+regarding visual inspection are shared, considering artificial intelligence,
+human digital twins, and cybersecurity.",2023-07-03,2023,2023-07,manufacturing
+AI4OPT: AI Institute for Advances in Optimization,"This article is a short introduction to AI4OPT, the NSF AI Institute for
+Advances in Optimization. AI4OPT fuses AI and Optimization, inspired by end-use
+cases in supply chains, energy systems, chip design and manufacturing, and
+sustainable food systems. AI4OPT also applies its ""teaching the teachers""
+philosophy to provide longitudinal educational pathways in AI for engineering.",2023-07-05,2023,2023-07,manufacturing
+"Hybrid ASP-based multi-objective scheduling of semiconductor
+  manufacturing processes (Extended version)","Modern semiconductor manufacturing involves intricate production processes
+consisting of hundreds of operations, which can take several months from lot
+release to completion. The high-tech machines used in these processes are
+diverse, operate on individual wafers, lots, or batches in multiple stages, and
+necessitate product-specific setups and specialized maintenance procedures.
+This situation is different from traditional job-shop scheduling scenarios,
+which have less complex production processes and machines, and mainly focus on
+solving highly combinatorial but abstract scheduling problems. In this work, we
+address the scheduling of realistic semiconductor manufacturing processes by
+modeling their specific requirements using hybrid Answer Set Programming with
+difference logic, incorporating flexible machine processing, setup, batching
+and maintenance operations. Unlike existing methods that schedule semiconductor
+manufacturing processes locally with greedy heuristics or by independently
+optimizing specific machine group allocations, we examine the potentials of
+large-scale scheduling subject to multiple optimization objectives.",2023-07-27,2023,2023-07,manufacturing
+"Time-Series Classification in Smart Manufacturing Systems: An
+  Experimental Evaluation of State-of-the-Art Machine Learning Algorithms","Manufacturing is gathering extensive amounts of diverse data, thanks to the
+growing number of sensors and rapid advances in sensing technologies. Among the
+various data types available in SMS settings, time-series data plays a pivotal
+role. Hence, TSC emerges is crucial in this domain. The objective of this study
+is to fill this gap by providing a rigorous experimental evaluation of the SoTA
+ML and DL algorithms for TSC tasks in manufacturing and industrial settings. We
+first explored and compiled a comprehensive list of more than 92 SoTA
+algorithms from both TSC and manufacturing literature. Following, we selected
+the 36 most representative algorithms from this list. To evaluate their
+performance across various manufacturing classification tasks, we curated a set
+of 22 manufacturing datasets, representative of different characteristics that
+cover diverse manufacturing problems. Subsequently, we implemented and
+evaluated the algorithms on the manufacturing benchmark datasets, and analyzed
+the results for each dataset. Based on the results, ResNet, DrCIF,
+InceptionTime, and ARSENAL are the top-performing algorithms, boasting an
+average accuracy of over 96.6% across all 22 manufacturing TSC datasets. These
+findings underscore the robustness, efficiency, scalability, and effectiveness
+of convolutional kernels in capturing temporal features in time-series data, as
+three out of the top four performing algorithms leverage these kernels for
+feature extraction. Additionally, LSTM, BiLSTM, and TS-LSTM algorithms deserve
+recognition for their effectiveness in capturing features within time-series
+data using RNN-based structures.",2023-10-04,2023,2023-10,manufacturing
+"Large Scale Foundation Models for Intelligent Manufacturing
+  Applications: A Survey","Although the applications of artificial intelligence especially deep learning
+had greatly improved various aspects of intelligent manufacturing, they still
+face challenges for wide employment due to the poor generalization ability,
+difficulties to establish high-quality training datasets, and unsatisfactory
+performance of deep learning methods. The emergence of large scale foundational
+models(LSFMs) had triggered a wave in the field of artificial intelligence,
+shifting deep learning models from single-task, single-modal, limited data
+patterns to a paradigm encompassing diverse tasks, multimodal, and pre-training
+on massive datasets. Although LSFMs had demonstrated powerful generalization
+capabilities, automatic high-quality training dataset generation and superior
+performance across various domains, applications of LSFMs on intelligent
+manufacturing were still in their nascent stage. A systematic overview of this
+topic was lacking, especially regarding which challenges of deep learning can
+be addressed by LSFMs and how these challenges can be systematically tackled.
+To fill this gap, this paper systematically expounded current statue of LSFMs
+and their advantages in the context of intelligent manufacturing. and compared
+comprehensively with the challenges faced by current deep learning models in
+various intelligent manufacturing applications. We also outlined the roadmaps
+for utilizing LSFMs to address these challenges. Finally, case studies of
+applications of LSFMs in real-world intelligent manufacturing scenarios were
+presented to illustrate how LSFMs could help industries, improve their
+efficiency.",2023-12-11,2023,2023-12,manufacturing
+"DVQI: A Multi-task, Hardware-integrated Artificial Intelligence System
+  for Automated Visual Inspection in Electronics Manufacturing","As electronics manufacturers continue to face pressure to increase production
+efficiency amid difficulties with supply chains and labour shortages, many
+printed circuit board assembly (PCBA) manufacturers have begun to invest in
+automation and technological innovations to remain competitive. One such method
+is to leverage artificial intelligence (AI) to greatly augment existing
+manufacturing processes. In this paper, we present the DarwinAI Visual Quality
+Inspection (DVQI) system, a hardware-integration artificial intelligence system
+for the automated inspection of printed circuit board assembly defects in an
+electronics manufacturing environment. The DVQI system enables multi-task
+inspection via minimal programming and setup for manufacturing engineers while
+improving cycle time relative to manual inspection. We also present a case
+study of the deployed DVQI system's performance and impact for a top
+electronics manufacturer.",2023-12-14,2023,2023-12,manufacturing
+"Boosting Defect Detection in Manufacturing using Tensor Convolutional
+  Neural Networks","Defect detection is one of the most important yet challenging tasks in the
+quality control stage in the manufacturing sector. In this work, we introduce a
+Tensor Convolutional Neural Network (T-CNN) and examine its performance on a
+real defect detection application in one of the components of the ultrasonic
+sensors produced at Robert Bosch's manufacturing plants. Our quantum-inspired
+T-CNN operates on a reduced model parameter space to substantially improve the
+training speed and performance of an equivalent CNN model without sacrificing
+accuracy. More specifically, we demonstrate how T-CNNs are able to reach the
+same performance as classical CNNs as measured by quality metrics, with up to
+fifteen times fewer parameters and 4% to 19% faster training times. Our results
+demonstrate that the T-CNN greatly outperforms the results of traditional human
+visual inspection, providing value in a current real application in
+manufacturing.",2023-12-29,2023,2023-12,manufacturing
+"Interactive and Intelligent Root Cause Analysis in Manufacturing with
+  Causal Bayesian Networks and Knowledge Graphs","Root Cause Analysis (RCA) in the manufacturing of electric vehicles is the
+process of identifying fault causes. Traditionally, the RCA is conducted
+manually, relying on process expert knowledge. Meanwhile, sensor networks
+collect significant amounts of data in the manufacturing process. Using this
+data for RCA makes it more efficient. However, purely data-driven methods like
+Causal Bayesian Networks have problems scaling to large-scale, real-world
+manufacturing processes due to the vast amount of potential cause-effect
+relationships (CERs). Furthermore, purely data-driven methods have the
+potential to leave out already known CERs or to learn spurious CERs. The paper
+contributes by proposing an interactive and intelligent RCA tool that combines
+expert knowledge of an electric vehicle manufacturing process and a data-driven
+machine learning method. It uses reasoning over a large-scale Knowledge Graph
+of the manufacturing process while learning a Causal Bayesian Network. In
+addition, an Interactive User Interface enables a process expert to give
+feedback to the root cause graph by adding and removing information to the
+Knowledge Graph. The interactive and intelligent RCA tool reduces the learning
+time of the Causal Bayesian Network while decreasing the number of spurious
+CERs. Thus, the interactive and intelligent RCA tool closes the feedback loop
+between expert and machine learning method.",2024-01-20,2024,2024-01,manufacturing
+Deep Generative Design for Mass Production,"Generative Design (GD) has evolved as a transformative design approach,
+employing advanced algorithms and AI to create diverse and innovative solutions
+beyond traditional constraints. Despite its success, GD faces significant
+challenges regarding the manufacturability of complex designs, often
+necessitating extensive manual modifications due to limitations in standard
+manufacturing processes and the reliance on additive manufacturing, which is
+not ideal for mass production. Our research introduces an innovative framework
+addressing these manufacturability concerns by integrating constraints
+pertinent to die casting and injection molding into GD, through the utilization
+of 2D depth images. This method simplifies intricate 3D geometries into
+manufacturable profiles, removing unfeasible features such as
+non-manufacturable overhangs and allowing for the direct consideration of
+essential manufacturing aspects like thickness and rib design. Consequently,
+designs previously unsuitable for mass production are transformed into viable
+solutions. We further enhance this approach by adopting an advanced 2D
+generative model, which offer a more efficient alternative to traditional 3D
+shape generation methods. Our results substantiate the efficacy of this
+framework, demonstrating the production of innovative, and, importantly,
+manufacturable designs. This shift towards integrating practical manufacturing
+considerations into GD represents a pivotal advancement, transitioning from
+purely inspirational concepts to actionable, production-ready solutions. Our
+findings underscore usefulness and potential of GD for broader industry
+adoption, marking a significant step forward in aligning GD with the demands of
+manufacturing challenges.",2024-03-16,2024,2024-03,manufacturing
+"Enhancing Manufacturing Quality Prediction Models through the
+  Integration of Explainability Methods","This research presents a method that utilizes explainability techniques to
+amplify the performance of machine learning (ML) models in forecasting the
+quality of milling processes, as demonstrated in this paper through a
+manufacturing use case. The methodology entails the initial training of ML
+models, followed by a fine-tuning phase where irrelevant features identified
+through explainability methods are eliminated. This procedural refinement
+results in performance enhancements, paving the way for potential reductions in
+manufacturing costs and a better understanding of the trained ML models. This
+study highlights the usefulness of explainability techniques in both explaining
+and optimizing predictive models in the manufacturing realm.",2024-03-27,2024,2024-03,manufacturing
+"Worker Robot Cooperation and Integration into the Manufacturing Workcell
+  via the Holonic Control Architecture","Worker-Robot Cooperation is a new industrial trend, which aims to sum the
+advantages of both the human and the industrial robot to afford a new
+intelligent manufacturing techniques. The cooperative manufacturing between the
+worker and the robot contains other elements such as the product parts and the
+manufacturing tools. All these production elements must cooperate in one
+manufacturing workcell to fulfill the production requirements. The
+manufacturing control system is the mean to connect all these cooperative
+elements together in one body. This manufacturing control system is distributed
+and autonomous due to the nature of the cooperative workcell. Accordingly, this
+article proposes the holonic control architecture as the manufacturing concept
+of the cooperative workcell. Furthermore, the article focuses on the
+feasibility of this manufacturing concept, by applying it over a case study
+that involves the cooperation between a dual-arm robot and a worker. During
+this case study, the worker uses a variety of hand gestures to cooperate with
+the robot to achieve the highest production flexibility",2024-03-30,2024,2024-03,manufacturing
+"Ontology in Holonic Cooperative Manufacturing: A Solution to Share and
+  Exchange the Knowledge","Cooperative manufacturing is a new trend in industry, which depends on the
+existence of a collaborative robot. A collaborative robot is usually a
+light-weight robot which is capable of operating safely with a human co-worker
+in a shared work environment. During this cooperation, a vast amount of
+information is exchanged between the collaborative robot and the worker. This
+information constructs the cooperative manufacturing knowledge, which describes
+the production components and environment. In this research, we propose a
+holonic control solution, which uses the ontology concept to represent the
+cooperative manufacturing knowledge. The holonic control solution is
+implemented as an autonomous multi-agent system that exchanges the
+manufacturing knowledge based on an ontology model. Ultimately, the research
+illustrates and implements the proposed solution over a cooperative assembly
+scenario, which involves two workers and one collaborative robot, whom
+cooperate together to assemble a customized product.",2024-03-30,2024,2024-03,manufacturing
+"Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing
+  Service Discovery","Sourcing and identification of new manufacturing partners is crucial for
+manufacturing system integrators to enhance agility and reduce risk through
+supply chain diversification in the global economy. The advent of advanced
+large language models has captured significant interest, due to their ability
+to generate comprehensive and articulate responses across a wide range of
+knowledge domains. However, the system often falls short in accuracy and
+completeness when responding to domain-specific inquiries, particularly in
+areas like manufacturing service discovery. This research explores the
+potential of leveraging Knowledge Graphs in conjunction with ChatGPT to
+streamline the process for prospective clients in identifying small
+manufacturing enterprises. In this study, we propose a method that integrates
+bottom-up ontology with advanced machine learning models to develop a
+Manufacturing Service Knowledge Graph from an array of structured and
+unstructured data sources, including the digital footprints of small-scale
+manufacturers throughout North America. The Knowledge Graph and the learned
+graph embedding vectors are leveraged to tackle intricate queries within the
+digital supply chain network, responding with enhanced reliability and greater
+interpretability. The approach highlighted is scalable to millions of entities
+that can be distributed to form a global Manufacturing Service Knowledge
+Network Graph that can potentially interconnect multiple types of Knowledge
+Graphs that span industry sectors, geopolitical boundaries, and business
+domains. The dataset developed for this study, now publicly accessible,
+encompasses more than 13,000 manufacturers' weblinks, manufacturing services,
+certifications, and location entity types.",2024-04-09,2024,2024-04,manufacturing
+"Explainable Artificial Intelligence Techniques for Accurate Fault
+  Detection and Diagnosis: A Review","As the manufacturing industry advances with sensor integration and
+automation, the opaque nature of deep learning models in machine learning poses
+a significant challenge for fault detection and diagnosis. And despite the
+related predictive insights Artificial Intelligence (AI) can deliver, advanced
+machine learning engines often remain a black box. This paper reviews the
+eXplainable AI (XAI) tools and techniques in this context. We explore various
+XAI methodologies, focusing on their role in making AI decision-making
+transparent, particularly in critical scenarios where humans are involved. We
+also discuss current limitations and potential future research that aims to
+balance explainability with model performance while improving trustworthiness
+in the context of AI applications for critical industrial use cases.",2024-04-17,2024,2024-04,manufacturing
+Generative manufacturing systems using diffusion models and ChatGPT,"In this study, we introduce Generative Manufacturing Systems (GMS) as a novel
+approach to effectively manage and coordinate autonomous manufacturing assets,
+thereby enhancing their responsiveness and flexibility to address a wide array
+of production objectives and human preferences. Deviating from traditional
+explicit modeling, GMS employs generative AI, including diffusion models and
+ChatGPT, for implicit learning from envisioned futures, marking a shift from a
+model-optimum to a training-sampling decision-making. Through the integration
+of generative AI, GMS enables complex decision-making through interactive
+dialogue with humans, allowing manufacturing assets to generate multiple
+high-quality global decisions that can be iteratively refined based on human
+feedback. Empirical findings showcase GMS's substantial improvement in system
+resilience and responsiveness to uncertainties, with decision times reduced
+from seconds to milliseconds. The study underscores the inherent creativity and
+diversity in the generated solutions, facilitating human-centric
+decision-making through seamless and continuous human-machine interactions.",2024-05-02,2024,2024-05,manufacturing
+"AI for Manufacturing and Healthcare: a chemistry and engineering
+  perspective","Artificial Intelligence (AI) approaches are increasingly being applied to
+more and more domains of Science, Engineering, Chemistry, and Industries to not
+only improve efficiencies and enhance productivity, but also enable new
+capabilities. The new opportunities range from automated molecule design and
+screening, properties prediction, gaining insights of chemical reactions, to
+computer-aided design, predictive maintenance of systems, robotics, and
+autonomous vehicles. This review focuses on the new applications of AI in
+manufacturing and healthcare. For the Manufacturing Industries, we focus on AI
+and algorithms for (1) Battery, (2) Flow Chemistry, (3) Additive Manufacturing,
+(4) Sensors, and (5) Machine Vision. For Healthcare applications, we focus on:
+(1) Medical Vision (2) Diagnosis, (3) Protein Design, and (4) Drug Discovery.
+In the end, related topics are discussed, including physics integrated machine
+learning, model explainability, security, and governance during model
+deployment.",2024-05-02,2024,2024-05,manufacturing
+AI in Manufacturing: Market Analysis and Opportunities,"In this paper, we explore the transformative impact of Artificial
+Intelligence (AI) in the manufacturing sector, highlighting its potential to
+revolutionize industry practices and enhance operational efficiency. We delve
+into various applications of AI in manufacturing, with a particular emphasis on
+human-machine interfaces (HMI) and AI-powered milling machines, showcasing how
+these technologies contribute to more intuitive operations and precision in
+production processes. Through rigorous market analysis, the paper presents
+insightful data on AI adoption rates among German manufacturers, comparing
+these figures with global trends and exploring the specific uses of AI in
+production, maintenance, customer service, and more. In addition, the paper
+examines the emerging field of Generative AI and the potential applications of
+large language models in manufacturing processes. The findings indicate a
+significant increase in AI adoption from 6% in 2020 to 13.3% in 2023 among
+German companies, with a projection of substantial economic impact by 2030. The
+study also addresses the challenges faced by companies, such as data quality
+and integration hurdles, providing a balanced view of the opportunities and
+obstacles in AI implementation.",2024-05-21,2024,2024-05,manufacturing
+"A Large Language Model-based multi-agent manufacturing system for
+  intelligent shopfloor","As productivity advances, the demand of customers for multi-variety and
+small-batch production is increasing, thereby putting forward higher
+requirements for manufacturing systems. When production tasks frequent changes
+due to this demand, traditional manufacturing systems often cannot response
+promptly. The multi-agent manufacturing system is proposed to address this
+problem. However, because of technical limitations, the negotiation among
+agents in this kind of system is realized through predefined heuristic rules,
+which is not intelligent enough to deal with the multi-variety and small batch
+production. To this end, a Large Language Model-based (LLM-based) multi-agent
+manufacturing system for intelligent shopfloor is proposed in the present
+study. This system delineates the diverse agents and defines their
+collaborative methods. The roles of the agents encompass Machine Server Agent
+(MSA), Bid Inviter Agent (BIA), Bidder Agent (BA), Thinking Agent (TA), and
+Decision Agent (DA). Due to the support of LLMs, TA and DA acquire the ability
+of analyzing the shopfloor condition and choosing the most suitable machine, as
+opposed to executing a predefined program artificially. The negotiation between
+BAs and BIA is the most crucial step in connecting manufacturing resources.
+With the support of TA and DA, BIA will finalize the distribution of orders,
+relying on the information of each machine returned by BA. MSAs bears the
+responsibility for connecting the agents with the physical shopfloor. This
+system aims to distribute and transmit workpieces through the collaboration of
+the agents with these distinct roles, distinguishing it from other scheduling
+approaches. Comparative experiments were also conducted to validate the
+performance of this system.",2024-05-27,2024,2024-05,manufacturing
+Large Language Model-Enabled Multi-Agent Manufacturing Systems,"Traditional manufacturing faces challenges adapting to dynamic environments
+and quickly responding to manufacturing changes. The use of multi-agent systems
+has improved adaptability and coordination but requires further advancements in
+rapid human instruction comprehension, operational adaptability, and
+coordination through natural language integration. Large language models like
+GPT-3.5 and GPT-4 enhance multi-agent manufacturing systems by enabling agents
+to communicate in natural language and interpret human instructions for
+decision-making. This research introduces a novel framework where large
+language models enhance the capabilities of agents in manufacturing, making
+them more adaptable, and capable of processing context-specific instructions. A
+case study demonstrates the practical application of this framework, showing
+how agents can effectively communicate, understand tasks, and execute
+manufacturing processes, including precise G-code allocation among agents. The
+findings highlight the importance of continuous large language model
+integration into multi-agent manufacturing systems and the development of
+sophisticated agent communication protocols for a more flexible manufacturing
+system.",2024-06-04,2024,2024-06,manufacturing
+"Rare Class Prediction Model for Smart Industry in Semiconductor
+  Manufacturing","The evolution of industry has enabled the integration of physical and digital
+systems, facilitating the collection of extensive data on manufacturing
+processes. This integration provides a reliable solution for improving process
+quality and managing equipment health. However, data collected from real
+manufacturing processes often exhibit challenging properties, such as severe
+class imbalance, high rates of missing values, and noisy features, which hinder
+effective machine learning implementation. In this study, a rare class
+prediction approach is developed for in situ data collected from a smart
+semiconductor manufacturing process. The primary objective is to build a model
+that addresses issues of noise and class imbalance, enhancing class separation.
+The developed approach demonstrated promising results compared to existing
+literature, which would allow the prediction of new observations that could
+give insights into future maintenance plans and production quality. The model
+was evaluated using various performance metrics, with ROC curves showing an AUC
+of 0.95, a precision of 0.66, and a recall of 0.96",2024-06-06,2024,2024-06,manufacturing
+"A systematic review on expert systems for improving energy efficiency in
+  the manufacturing industry","Against the backdrop of the European Union's commitment to achieve climate
+neutrality by 2050, efforts to improve energy efficiency are being intensified.
+The manufacturing industry is a key focal point of these endeavors due to its
+high final electrical energy demand, while simultaneously facing a growing
+shortage of skilled workers crucial for meeting established goals. Expert
+systems (ESs) offer the chance to overcome this challenge by automatically
+identifying potential energy efficiency improvements and thereby playing a
+significant role in reducing electricity consumption. This paper systematically
+reviews state-of-the-art approaches of ESs aimed at improving energy efficiency
+in industry, with a focus on manufacturing. The literature search yields 1692
+results, of which 54 articles published between 1987 and 2023 are analyzed in
+depth. These publications are classified according to the system boundary,
+manufacturing type, application perspective, application purpose, ES type, and
+industry. Furthermore, we examine the structure, implementation, utilization,
+and development of ESs in this context. Through this analysis, the review
+reveals research gaps, pointing toward promising topics for future research.",2024-07-05,2024,2024-07,manufacturing
+"Human-artificial intelligence teaming for scientific information
+  extraction from data-driven additive manufacturing research using large
+  language models","Data-driven research in Additive Manufacturing (AM) has gained significant
+success in recent years. This has led to a plethora of scientific literature to
+emerge. The knowledge in these works consists of AM and Artificial Intelligence
+(AI) contexts that have not been mined and formalized in an integrated way. It
+requires substantial effort and time to extract scientific information from
+these works. AM domain experts have contributed over two dozen review papers to
+summarize these works. However, information specific to AM and AI contexts
+still requires manual effort to extract. The recent success of foundation
+models such as BERT (Bidirectional Encoder Representations for Transformers) or
+GPT (Generative Pre-trained Transformers) on textual data has opened the
+possibility of expediting scientific information extraction. We propose a
+framework that enables collaboration between AM and AI experts to continuously
+extract scientific information from data-driven AM literature. A demonstration
+tool is implemented based on the proposed framework and a case study is
+conducted to extract information relevant to the datasets, modeling, sensing,
+and AM system categories. We show the ability of LLMs (Large Language Models)
+to expedite the extraction of relevant information from data-driven AM
+literature. In the future, the framework can be used to extract information
+from the broader design and manufacturing literature in the engineering
+discipline.",2024-07-26,2024,2024-07,manufacturing
+Review of Cloud Service Composition for Intelligent Manufacturing,"Intelligent manufacturing is a new model that uses advanced technologies such
+as the Internet of Things, big data, and artificial intelligence to improve the
+efficiency and quality of manufacturing production. As an important support to
+promote the transformation and upgrading of the manufacturing industry, cloud
+service optimization has received the attention of researchers. In recent
+years, remarkable research results have been achieved in this field. For the
+sustainability of intelligent manufacturing platforms, in this paper we
+summarize the process of cloud service optimization for intelligent
+manufacturing. Further, to address the problems of dispersed optimization
+indicators and nonuniform/unstandardized definitions in the existing research,
+11 optimization indicators that take into account three-party participant
+subjects are defined from the urgent requirements of the sustainable
+development of intelligent manufacturing platforms. Next, service optimization
+algorithms are classified into two categories, heuristic and reinforcement
+learning. After comparing the two categories, the current key techniques of
+service optimization are targeted. Finally, research hotspots and future
+research trends of service optimization are summarized.",2024-08-03,2024,2024-08,manufacturing
+A Comprehensive Review of Lunar-based Manufacturing and Construction,"As humankind prepares to establish outposts and infrastructure on the Moon,
+the ability to manufacture parts and buildings on-site is crucial. While
+transporting raw materials from Earth can be costly and time-consuming, in-situ
+resource utilization (ISRU) presents an attractive alternative. This review
+paper aims to provide a thorough examination of the current state and future
+potential of Lunar-based manufacturing and construction (LBMC), with a
+particular focus on the prospect of utilizing in-situ resources and additive
+manufacturing. The paper analyzes existing research on LBMC from various
+perspectives, including different manufacturing techniques and compositions,
+the potential of ISRU for LBMC, characterization of built parts and structures,
+the role of energy sources and efficiency, the impact of low-gravity and vacuum
+conditions, and the feasibility of using artificial intelligence, automation,
+and robotics. By synthesizing these findings, this review offers valuable
+insights into the challenges and opportunities that lie ahead for LBMC.",2024-08-11,2024,2024-08,manufacturing
+"Automatic Feature Recognition and Dimensional Attributes Extraction From
+  CAD Models for Hybrid Additive-Subtractive Manufacturing","The integration of Computer-Aided Design (CAD), Computer-Aided Process
+Planning (CAPP), and Computer-Aided Manufacturing (CAM) plays a crucial role in
+modern manufacturing, facilitating seamless transitions from digital designs to
+physical products. However, a significant challenge within this integration is
+the Automatic Feature Recognition (AFR) of CAD models, especially in the
+context of hybrid manufacturing that combines subtractive and additive
+manufacturing processes. Traditional AFR methods, focused mainly on the
+identification of subtractive (machined) features including holes, fillets,
+chamfers, pockets, and slots, fail to recognize features pertinent to additive
+manufacturing. Furthermore, the traditional methods fall short in accurately
+extracting geometric dimensions and orientations, which are also key factors
+for effective manufacturing process planning. This paper presents a novel
+approach for creating a synthetic CAD dataset that encompasses features
+relevant to both additive and subtractive machining through Python Open
+Cascade. The Hierarchical Graph Convolutional Neural Network (HGCNN) model is
+implemented to accurately identify the composite additive-subtractive features
+within the synthetic CAD dataset. The key novelty and contribution of the
+proposed methodology lie in its ability to recognize a wide range of
+manufacturing features, and precisely extracting their dimensions,
+orientations, and stock sizes. The proposed model demonstrates remarkable
+feature recognition accuracy exceeding 97% and a dimension extraction accuracy
+of 100% for identified features. Therefore, the proposed methodology enhances
+the integration of CAD, CAPP, and CAM within hybrid manufacturing by providing
+precise feature recognition and dimension extraction. It facilitates improved
+manufacturing process planning, by enabling more informed decision-making.",2024-08-13,2024,2024-08,manufacturing
+Intelligent OPC Engineer Assistant for Semiconductor Manufacturing,"Advancements in chip design and manufacturing have enabled the processing of
+complex tasks such as deep learning and natural language processing, paving the
+way for the development of artificial general intelligence (AGI). AI, on the
+other hand, can be leveraged to innovate and streamline semiconductor
+technology from planning and implementation to manufacturing. In this paper, we
+present \textit{Intelligent OPC Engineer Assistant}, an AI/LLM-powered
+methodology designed to solve the core manufacturing-aware optimization problem
+known as optical proximity correction (OPC). The methodology involves a
+reinforcement learning-based OPC recipe search and a customized multi-modal
+agent system for recipe summarization. Experiments demonstrate that our
+methodology can efficiently build OPC recipes on various chip designs with
+specially handled design topologies, a task that typically requires the
+full-time effort of OPC engineers with years of experience.",2024-08-23,2024,2024-08,manufacturing
+"Comprehensive Overview of Artificial Intelligence Applications in Modern
+  Industries","Artificial Intelligence (AI) is fundamentally reshaping various industries by
+enhancing decision-making processes, optimizing operations, and unlocking new
+opportunities for innovation. This paper explores the applications of AI across
+four key sectors: healthcare, finance, manufacturing, and retail. Each section
+delves into the specific challenges faced by these industries, the AI
+technologies employed to address them, and the measurable impact on business
+outcomes and societal welfare. We also discuss the implications of AI
+integration, including ethical considerations, the future trajectory of AI
+development, and its potential to drive economic growth while posing challenges
+that need to be managed responsibly.",2024-09-19,2024,2024-09,manufacturing
+"On the role of Artificial Intelligence methods in modern
+  force-controlled manufacturing robotic tasks","This position paper explores the integration of Artificial Intelligence (AI)
+into force-controlled robotic tasks within the scope of advanced manufacturing,
+a cornerstone of Industry 4.0. AI's role in enhancing robotic manipulators -
+key drivers in the Fourth Industrial Revolution - is rapidly leading to
+significant innovations in smart manufacturing. The objective of this article
+is to frame these innovations in practical force-controlled applications - e.g.
+deburring, polishing, and assembly tasks like peg-in-hole (PiH) - highlighting
+their necessity for maintaining high-quality production standards. By reporting
+on recent AI-based methodologies, this article contrasts them and identifies
+current challenges to be addressed in future research. The analysis concludes
+with a perspective on future research directions, emphasizing the need for
+common performance metrics to validate AI techniques, integration of various
+enhancements for performance optimization, and the importance of validating
+them in relevant scenarios. These future directions aim to provide consistency
+with already adopted approaches, so as to be compatible with manufacturing
+standards, increasing the relevance of AI-driven methods in both academic and
+industrial contexts.",2024-09-25,2024,2024-09,manufacturing
+Large Language Models for Manufacturing,"The rapid advances in Large Language Models (LLMs) have the potential to
+transform manufacturing industry, offering new opportunities to optimize
+processes, improve efficiency, and drive innovation. This paper provides a
+comprehensive exploration of the integration of LLMs into the manufacturing
+domain, focusing on their potential to automate and enhance various aspects of
+manufacturing, from product design and development to quality control, supply
+chain optimization, and talent management. Through extensive evaluations across
+multiple manufacturing tasks, we demonstrate the remarkable capabilities of
+state-of-the-art LLMs, such as GPT-4V, in understanding and executing complex
+instructions, extracting valuable insights from vast amounts of data, and
+facilitating knowledge sharing. We also delve into the transformative potential
+of LLMs in reshaping manufacturing education, automating coding processes,
+enhancing robot control systems, and enabling the creation of immersive,
+data-rich virtual environments through the industrial metaverse. By
+highlighting the practical applications and emerging use cases of LLMs in
+manufacturing, this paper aims to provide a valuable resource for
+professionals, researchers, and decision-makers seeking to harness the power of
+these technologies to address real-world challenges, drive operational
+excellence, and unlock sustainable growth in an increasingly competitive
+landscape.",2024-10-28,2024,2024-10,manufacturing
+"Exploring the Impact of Generative AI on Cross-Border E-Commerce Brand
+  Building in Chinese Tianjin's Manufacturing Sector","This study investigates the influence of generative artificial intelligence
+(AI) on the brand construction of cross-border e-commerce companies in the
+manufacturing industry in Tianjin, China. We examine the direct effects of
+generative AI on productivity, the mediating role of productivity in the
+relationship between generative AI and brand building, and the moderating
+influence of cross-border e-commerce strategies by developing and testing a
+comprehensive model. Based on data collected from 210 manufacturing firms in
+Chinese Tianjin, the results show that generative AI significantly increases
+productivity, which positively affects branding. Moreover, cross-border
+e-commerce strategies were found to moderate the impact of generative AI on
+branding, underscoring the importance of these strategies for using AI
+technologies to compete successfully in the global marketplace. This study
+provides valuable theory, empiricism and practical contributions to
+understanding the role AI plays in manufacturing and electronic commerce.
+Besides, this study tests several hypotheses to quantify these impacts using a
+structured model that consists of independent, dependent, mediating and
+moderating variables. Information is collected through a comprehensive survey
+of manufacturers in Chinese Tianjin and analyzed to test our proposed model.
+This study was analyzed and summarized using quantitative analysis, regression
+and structural equations (PLS-SEM).",2024-11-08,2024,2024-11,manufacturing
+"Hybrid Gaussian Process Regression with Temporal Feature Extraction for
+  Partially Interpretable Remaining Useful Life Interval Prediction in
+  Aeroengine Prognostics","The estimation of Remaining Useful Life (RUL) plays a pivotal role in
+intelligent manufacturing systems and Industry 4.0 technologies. While recent
+advancements have improved RUL prediction, many models still face
+interpretability and compelling uncertainty modeling challenges. This paper
+introduces a modified Gaussian Process Regression (GPR) model for RUL interval
+prediction, tailored for the complexities of manufacturing process development.
+The modified GPR predicts confidence intervals by learning from historical data
+and addresses uncertainty modeling in a more structured way. The approach
+effectively captures intricate time-series patterns and dynamic behaviors
+inherent in modern manufacturing systems by coupling GPR with deep adaptive
+learning-enhanced AI process models. Moreover, the model evaluates feature
+significance to ensure more transparent decision-making, which is crucial for
+optimizing manufacturing processes. This comprehensive approach supports more
+accurate RUL predictions and provides transparent, interpretable insights into
+uncertainty, contributing to robust process development and management.",2024-11-19,2024,2024-11,manufacturing
+"Regulator-Manufacturer AI Agents Modeling: Mathematical Feedback-Driven
+  Multi-Agent LLM Framework","The increasing complexity of regulatory updates from global authorities
+presents significant challenges for medical device manufacturers, necessitating
+agile strategies to sustain compliance and maintain market access.
+Concurrently, regulatory bodies must effectively monitor manufacturers'
+responses and develop strategic surveillance plans. This study employs a
+multi-agent modeling approach, enhanced with Large Language Models (LLMs), to
+simulate regulatory dynamics and examine the adaptive behaviors of key actors,
+including regulatory bodies, manufacturers, and competitors. These agents
+operate within a simulated environment governed by regulatory flow theory,
+capturing the impacts of regulatory changes on compliance decisions, market
+adaptation, and innovation strategies. Our findings illuminate the influence of
+regulatory shifts on industry behaviour and identify strategic opportunities
+for improving regulatory practices, optimizing compliance, and fostering
+innovation. By leveraging the integration of multi-agent systems and LLMs, this
+research provides a novel perspective and offers actionable insights for
+stakeholders navigating the evolving regulatory landscape of the medical device
+industry.",2024-11-22,2024,2024-11,manufacturing
+"Pivoting B2B platform business models: From platform experimentation to
+  multi-platform integration to ecosystem envelopment","The landscape of digital servitization in the manufacturing sector is
+evolving, marked by a strategic shift from traditional product-centric to
+platform business models (BMs). Manufacturing firms often employ a blend of
+approaches to develop business-to-business (B2B) platforms, leading to
+significant reconfigurations in their BMs. However, they frequently encounter
+failures in their B2B platform development initiatives, leading them to abandon
+initial efforts and pivot to alternative platform strategies. Therefore, this
+study, through an in-depth case study of a manufacturer in the energy sector,
+articulates a three-phase pivoting framework for B2B platform BMs, including
+platform development and platform strategy. Initially, the manufacturer focused
+on asset-based product sales supplemented by asset maintenance services and
+followed an emergent platformization strategy characterized by the rise of
+multiple, independent B2B platforms catering to diverse functions. Next,
+focusing on the imposed customer journey strategy, the firm shifted towards a
+strategic multi-platform integration into an all-encompassing platform
+supported by artificial intelligence (AI), signaling a maturation of the
+platform BM to combine a wide range of services into an
+energy-performance-based contract. Finally, the last step of the firm's
+platform BM evolution consisted of a deliberate platform strategy open to
+external stakeholders and enveloping its data-driven offerings within a broader
+platform ecosystem. This article advances B2B platform BMs and digital
+servitization literature, highlighting the efficacy of a progressive approach
+and strategic pivoting.",2024-12-27,2024,2024-12,manufacturing

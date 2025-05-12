@@ -1,0 +1,1101 @@
+title,summary,published,year,month,category,url
+An architecture for the evaluation of intelligent systems,"One of the main research areas in Artificial Intelligence is the coding of
+agents (programs) which are able to learn by themselves in any situation. This
+means that agents must be useful for purposes other than those they were
+created for, as, for example, playing chess. In this way we try to get closer
+to the pristine goal of Artificial Intelligence. One of the problems to decide
+whether an agent is really intelligent or not is the measurement of its
+intelligence, since there is currently no way to measure it in a reliable way.
+The purpose of this project is to create an interpreter that allows for the
+execution of several environments, including those which are generated
+randomly, so that an agent (a person or a program) can interact with them. Once
+the interaction between the agent and the environment is over, the interpreter
+will measure the intelligence of the agent according to the actions, states and
+rewards the agent has undergone inside the environment during the test. As a
+result we will be able to measure agents' intelligence in any possible
+environment, and to make comparisons between several agents, in order to
+determine which of them is the most intelligent. In order to perform the tests,
+the interpreter must be able to randomly generate environments that are really
+useful to measure agents' intelligence, since not any randomly generated
+environment will serve that purpose.",2011-02-03,2011,2011-02,environment,http://arxiv.org/abs/1102.0714v1
+"Planning to Be Surprised: Optimal Bayesian Exploration in Dynamic
+  Environments","To maximize its success, an AGI typically needs to explore its initially
+unknown world. Is there an optimal way of doing so? Here we derive an
+affirmative answer for a broad class of environments.",2011-03-29,2011,2011-03,environment,http://arxiv.org/abs/1103.5708v1
+Optimistic Agents are Asymptotically Optimal,"We use optimism to introduce generic asymptotically optimal reinforcement
+learning agents. They achieve, with an arbitrary finite or compact class of
+environments, asymptotically optimal behavior. Furthermore, in the finite
+deterministic case we provide finite error bounds.",2012-09-29,2012,2012-09,environment,http://arxiv.org/abs/1210.0077v1
+Ambiente de Planejamento Ipê,"In this work we investigate the systems that implements algorithms for the
+planning problem in Artificial Intelligence, called planners, with especial
+attention to the planners based on the plan graph. We analyze the problem of
+comparing the performance of the different algorithms and we propose an
+environment for the development and analysis of planners.",2012-10-23,2012,2012-10,environment,http://arxiv.org/abs/1210.6275v2
+"Artificial Intelligence Framework for Simulating Clinical
+  Decision-Making: A Markov Decision Process Approach","In the modern healthcare system, rapidly expanding costs/complexity, the
+growing myriad of treatment options, and exploding information streams that
+often do not effectively reach the front lines hinder the ability to choose
+optimal treatment decisions over time. The goal in this paper is to develop a
+general purpose (non-disease-specific) computational/artificial intelligence
+(AI) framework to address these challenges. This serves two potential
+functions: 1) a simulation environment for exploring various healthcare
+policies, payment methodologies, etc., and 2) the basis for clinical artificial
+intelligence - an AI that can think like a doctor. This approach combines
+Markov decision processes and dynamic decision networks to learn from clinical
+data and develop complex plans via simulation of alternative sequential
+decision paths while capturing the sometimes conflicting, sometimes synergistic
+interactions of various components in the healthcare system. It can operate in
+partially observable environments (in the case of missing observations or data)
+by maintaining belief states about patient health status and functions as an
+online agent that plans and re-plans. This framework was evaluated using real
+patient data from an electronic health record. Such an AI framework easily
+outperforms the current treatment-as-usual (TAU) case-rate/fee-for-service
+models of healthcare (Cost per Unit Change: $189 vs. $497) while obtaining a
+30-35% increase in patient outcomes. Tweaking certain model parameters further
+enhances this advantage, obtaining roughly 50% more improvement for roughly
+half the costs. Given careful design and problem formulation, an AI simulation
+framework can approximate optimal decisions even in complex and uncertain
+environments. Future work is described that outlines potential lines of
+research and integration of machine learning algorithms for personalized
+medicine.",2013-01-10,2013,2013-01,environment,http://arxiv.org/abs/1301.2158v1
+On Stable Multi-Agent Behavior in Face of Uncertainty,"A stable joint plan should guarantee the achievement of a designer's goal in
+a multi-agent environment, while ensuring that deviations from the prescribed
+plan would be detected. We present a computational framework where stable joint
+plans can be studied, as well as several basic results about the
+representation, verification and synthesis of stable joint plans.",2013-02-06,2013,2013-02,environment,http://arxiv.org/abs/1302.1570v1
+"Incremental Map Generation by Low Cost Robots Based on
+  Possibility/Necessity Grids","In this paper we present some results obtained with a troupe of low-cost
+robots designed to cooperatively explore and adquire the map of unknown
+structured orthogonal environments. In order to improve the covering of the
+explored zone, the robots show different behaviours and cooperate by
+transferring each other the perceived environment when they meet. The returning
+robots deliver to a host computer their partial maps and the host incrementally
+generates the map of the environment by means of apossibility/ necessity grid.",2013-02-06,2013,2013-02,environment,http://arxiv.org/abs/1302.1559v1
+Ergo: A Graphical Environment for Constructing Bayesian,"We describe an environment that considerably simplifies the process of
+generating Bayesian belief networks. The system has been implemented on readily
+available, inexpensive hardware, and provides clarity and high performance. We
+present an introduction to Bayesian belief networks, discuss algorithms for
+inference with these networks, and delineate the classes of problems that can
+be solved with this paradigm. We then describe the hardware and software that
+constitute the system, and illustrate Ergo's use with several example",2013-03-27,2013,2013-03,environment,http://arxiv.org/abs/1304.1095v1
+A Probabilistic Reasoning Environment,"A framework is presented for a computational theory of probabilistic
+argument. The Probabilistic Reasoning Environment encodes knowledge at three
+levels. At the deepest level are a set of schemata encoding the system's domain
+knowledge. This knowledge is used to build a set of second-level arguments,
+which are structured for efficient recapture of the knowledge used to construct
+them. Finally, at the top level is a Bayesian network constructed from the
+arguments. The system is designed to facilitate not just propagation of beliefs
+and assimilation of evidence, but also the dynamic process of constructing a
+belief network, evaluating its adequacy, and revising it when necessary.",2013-03-27,2013,2013-03,environment,http://arxiv.org/abs/1304.1130v1
+"Enaction-Based Artificial Intelligence: Toward Coevolution with Humans
+  in the Loop","This article deals with the links between the enaction paradigm and
+artificial intelligence. Enaction is considered a metaphor for artificial
+intelligence, as a number of the notions which it deals with are deemed
+incompatible with the phenomenal field of the virtual. After explaining this
+stance, we shall review previous works regarding this issue in terms of
+artifical life and robotics. We shall focus on the lack of recognition of
+co-evolution at the heart of these approaches. We propose to explicitly
+integrate the evolution of the environment into our approach in order to refine
+the ontogenesis of the artificial system, and to compare it with the enaction
+paradigm. The growing complexity of the ontogenetic mechanisms to be activated
+can therefore be compensated by an interactive guidance system emanating from
+the environment. This proposition does not however resolve that of the
+relevance of the meaning created by the machine (sense-making). Such
+reflections lead us to integrate human interaction into this environment in
+order to construct relevant meaning in terms of participative artificial
+intelligence. This raises a number of questions with regards to setting up an
+enactive interaction. The article concludes by exploring a number of issues,
+thereby enabling us to associate current approaches with the principles of
+morphogenesis, guidance, the phenomenology of interactions and the use of
+minimal enactive interfaces in setting up experiments which will deal with the
+problem of artificial intelligence in a variety of enaction-based ways.",2014-02-26,2014,2014-02,environment,http://arxiv.org/abs/1402.6663v1
+"Cortex simulation system proposal using distributed computer network
+  environments","In the dawn of computer science and the eve of neuroscience we participate in
+rebirth of neuroscience due to new technology that allows us to deeply and
+precisely explore whole new world that dwells in our brains.",2014-03-22,2014,2014-03,environment,http://arxiv.org/abs/1403.5701v1
+Dynamic Sweep Filtering Algorithm for FlexC,"We investigate cumulative scheduling in uncertain environments, using
+constraint programming. We detail in this paper the dynamic sweep filtering
+algorithm of the FlexC global constraint.",2014-08-22,2014,2014-08,environment,http://arxiv.org/abs/1408.5377v1
+"Hybrid Systems Knowledge Representation Using Modelling Environment
+  System Techniques Artificial Intelligence","Knowledge-based or Artificial Intelligence techniques are used increasingly
+as alternatives to more classical techniques to model ENVIRONMENTAL SYSTEMS.
+Use of Artificial Intelligence (AI) in environmental modelling has increased
+with recognition of its potential. In this paper we examine the DIFFERENT
+TECHNIQUES of Artificial intelligence with profound examples of human
+perception, learning and reasoning to solve complex problems. However with the
+increase of complexity better methods are required. Keeping in view of the
+above some researchers introduced the idea of hybrid mechanism in which two or
+more methods can be combined which seems to be a positive effort for creating a
+more complex; advanced and intelligent system which has the capability to in-
+cooperate human decisions thus driving the landscape changes.",2014-09-03,2014,2014-09,environment,http://arxiv.org/abs/1409.1170v2
+"Quantifying Natural and Artificial Intelligence in Robots and Natural
+  Systems with an Algorithmic Behavioural Test","One of the most important aims of the fields of robotics, artificial
+intelligence and artificial life is the design and construction of systems and
+machines as versatile and as reliable as living organisms at performing high
+level human-like tasks. But how are we to evaluate artificial systems if we are
+not certain how to measure these capacities in living systems, let alone how to
+define life or intelligence? Here I survey a concrete metric towards measuring
+abstract properties of natural and artificial systems, such as the ability to
+react to the environment and to control one's own behaviour.",2014-12-20,2014,2014-12,environment,http://arxiv.org/abs/1412.6703v2
+"Quantifying Morphological Computation based on an Information
+  Decomposition of the Sensorimotor Loop","The question how an agent is affected by its embodiment has attracted growing
+attention in recent years. A new field of artificial intelligence has emerged,
+which is based on the idea that intelligence cannot be understood without
+taking into account embodiment. We believe that a formal approach to
+quantifying the embodiment's effect on the agent's behaviour is beneficial to
+the fields of artificial life and artificial intelligence. The contribution of
+an agent's body and environment to its behaviour is also known as morphological
+computation. Therefore, in this work, we propose a quantification of
+morphological computation, which is based on an information decomposition of
+the sensorimotor loop into shared, unique and synergistic information. In
+numerical simulation based on a formal representation of the sensorimotor loop,
+we show that the unique information of the body and environment is a good
+measure for morphological computation. The results are compared to our
+previously derived quantification of morphological computation.",2015-03-17,2015,2015-03,environment,http://arxiv.org/abs/1503.05113v1
+Qsmodels: ASP Planning in Interactive Gaming Environment,"Qsmodels is a novel application of Answer Set Programming to interactive
+gaming environment. We describe a software architecture by which the behavior
+of a bot acting inside the Quake 3 Arena can be controlled by a planner. The
+planner is written as an Answer Set Program and is interpreted by the Smodels
+solver.",2015-05-27,2015,2015-05,environment,http://arxiv.org/abs/1505.07263v1
+"An Empirical Comparison of Neural Architectures for Reinforcement
+  Learning in Partially Observable Environments","This paper explores the performance of fitted neural Q iteration for
+reinforcement learning in several partially observable environments, using
+three recurrent neural network architectures: Long Short-Term Memory, Gated
+Recurrent Unit and MUT1, a recurrent neural architecture evolved from a pool of
+several thousands candidate architectures. A variant of fitted Q iteration,
+based on Advantage values instead of Q values, is also explored. The results
+show that GRU performs significantly better than LSTM and MUT1 for most of the
+problems considered, requiring less training episodes and less CPU time before
+learning a very good policy. Advantage learning also tends to produce better
+results.",2015-12-17,2015,2015-12,environment,http://arxiv.org/abs/1512.05509v1
+Category Theoretic Analysis of Photon-based Decision Making,"Decision making is a vital function in this age of machine learning and
+artificial intelligence, yet its physical realization and theoretical
+fundamentals are still not completely understood. In our former study, we
+demonstrated that single-photons can be used to make decisions in uncertain,
+dynamically changing environments. The two-armed bandit problem was
+successfully solved using the dual probabilistic and particle attributes of
+single photons. In this study, we present a category theoretic modeling and
+analysis of single-photon-based decision making, including a quantitative
+analysis that is in agreement with the experimental results. A category
+theoretic model reveals the complex interdependencies of subject matter
+entities in a simplified manner, even in dynamically changing environments. In
+particular, the octahedral and braid structures in triangulated categories
+provide a better understanding and quantitative metrics of the underlying
+mechanisms of a single-photon decision maker. This study provides both insight
+and a foundation for analyzing more complex and uncertain problems, to further
+machine learning and artificial intelligence.",2016-02-26,2016,2016-02,environment,http://arxiv.org/abs/1602.08199v3
+"Obstacle evasion using fuzzy logic in a sliding blades problem
+  environment","This paper discusses obstacle avoidance using fuzzy logic and shortest path
+algorithm. This paper also introduces the sliding blades problem and
+illustrates how a drone can navigate itself through the swinging blade
+obstacles while tracing a semi-optimal path and also maintaining constant
+velocity",2016-05-03,2016,2016-05,environment,http://arxiv.org/abs/1605.00787v1
+Minimally Naturalistic Artificial Intelligence,"The rapid advancement of machine learning techniques has re-energized
+research into general artificial intelligence. While the idea of
+domain-agnostic meta-learning is appealing, this emerging field must come to
+terms with its relationship to human cognition and the statistics and structure
+of the tasks humans perform. The position of this article is that only by
+aligning our agents' abilities and environments with those of humans do we
+stand a chance at developing general artificial intelligence (GAI). A broad
+reading of the famous 'No Free Lunch' theorem is that there is no universally
+optimal inductive bias or, equivalently, bias-free learning is impossible. This
+follows from the fact that there are an infinite number of ways to extrapolate
+data, any of which might be the one used by the data generating environment; an
+inductive bias prefers some of these extrapolations to others, which lowers
+performance in environments using these adversarial extrapolations. We may
+posit that the optimal GAI is the one that maximally exploits the statistics of
+its environment to create its inductive bias; accepting the fact that this
+agent is guaranteed to be extremely sub-optimal for some alternative
+environments. This trade-off appears benign when thinking about the environment
+as being the physical universe, as performance on any fictive universe is
+obviously irrelevant. But, we should expect a sharper inductive bias if we
+further constrain our environment. Indeed, we implicitly do so by defining GAI
+in terms of accomplishing that humans consider useful. One common version of
+this is need the for 'common-sense reasoning', which implicitly appeals to the
+statistics of physical universe as perceived by humans.",2017-01-14,2017,2017-01,environment,http://arxiv.org/abs/1701.03868v1
+Don't Fear the Reaper: Refuting Bostrom's Superintelligence Argument,"In recent years prominent intellectuals have raised ethical concerns about
+the consequences of artificial intelligence. One concern is that an autonomous
+agent might modify itself to become ""superintelligent"" and, in supremely
+effective pursuit of poorly specified goals, destroy all of humanity. This
+paper considers and rejects the possibility of this outcome. We argue that this
+scenario depends on an agent's ability to rapidly improve its ability to
+predict its environment through self-modification. Using a Bayesian model of a
+reasoning agent, we show that there are important limitations to how an agent
+may improve its predictive ability through self-modification alone. We conclude
+that concern about this artificial intelligence outcome is misplaced and better
+directed at policy questions around data access and storage.",2017-02-27,2017,2017-02,environment,http://arxiv.org/abs/1702.08495v2
+Ethical Artificial Intelligence - An Open Question,"Artificial Intelligence (AI) is an effective science which employs strong
+enough approaches, methods, and techniques to solve unsolvable real world based
+problems. Because of its unstoppable rise towards the future, there are also
+some discussions about its ethics and safety. Shaping an AI friendly
+environment for people and a people friendly environment for AI can be a
+possible answer for finding a shared context of values for both humans and
+robots. In this context, objective of this paper is to address the ethical
+issues of AI and explore the moral dilemmas that arise from ethical algorithms,
+from pre set or acquired values. In addition, the paper will also focus on the
+subject of AI safety. As general, the paper will briefly analyze the concerns
+and potential solutions to solving the ethical issues presented and increase
+readers awareness on AI safety as another related research interest.",2017-05-16,2017,2017-05,environment,http://arxiv.org/abs/1706.03021v1
+OPEB: Open Physical Environment Benchmark for Artificial Intelligence,"Artificial Intelligence methods to solve continuous- control tasks have made
+significant progress in recent years. However, these algorithms have important
+limitations and still need significant improvement to be used in industry and
+real- world applications. This means that this area is still in an active
+research phase. To involve a large number of research groups, standard
+benchmarks are needed to evaluate and compare proposed algorithms. In this
+paper, we propose a physical environment benchmark framework to facilitate
+collaborative research in this area by enabling different research groups to
+integrate their designed benchmarks in a unified cloud-based repository and
+also share their actual implemented benchmarks via the cloud. We demonstrate
+the proposed framework using an actual implementation of the classical
+mountain-car example and present the results obtained using a Reinforcement
+Learning algorithm.",2017-07-04,2017,2017-07,environment,http://arxiv.org/abs/1707.00790v1
+"Investigating Reinforcement Learning Agents for Continuous State Space
+  Environments","Given an environment with continuous state spaces and discrete actions, we
+investigate using a Double Deep Q-learning Reinforcement Agent to find optimal
+policies using the LunarLander-v2 OpenAI gym environment.",2017-08-08,2017,2017-08,environment,http://arxiv.org/abs/1708.02378v3
+"Feasibility Study: Moving Non-Homogeneous Teams in Congested Video Game
+  Environments","Multi-agent path finding (MAPF) is a well-studied problem in artificial
+intelligence, where one needs to find collision-free paths for agents with
+given start and goal locations. In video games, agents of different types often
+form teams. In this paper, we demonstrate the usefulness of MAPF algorithms
+from artificial intelligence for moving such non-homogeneous teams in congested
+video game environments.",2017-10-04,2017,2017-10,environment,http://arxiv.org/abs/1710.01447v1
+Towards a Deep Reinforcement Learning Approach for Tower Line Wars,"There have been numerous breakthroughs with reinforcement learning in the
+recent years, perhaps most notably on Deep Reinforcement Learning successfully
+playing and winning relatively advanced computer games. There is undoubtedly an
+anticipation that Deep Reinforcement Learning will play a major role when the
+first AI masters the complicated game plays needed to beat a professional
+Real-Time Strategy game player. For this to be possible, there needs to be a
+game environment that targets and fosters AI research, and specifically Deep
+Reinforcement Learning. Some game environments already exist, however, these
+are either overly simplistic such as Atari 2600 or complex such as Starcraft II
+from Blizzard Entertainment. We propose a game environment in between Atari
+2600 and Starcraft II, particularly targeting Deep Reinforcement Learning
+algorithm research. The environment is a variant of Tower Line Wars from
+Warcraft III, Blizzard Entertainment. Further, as a proof of concept that the
+environment can harbor Deep Reinforcement algorithms, we propose and apply a
+Deep Q-Reinforcement architecture. The architecture simplifies the state space
+so that it is applicable to Q-learning, and in turn improves performance
+compared to current state-of-the-art methods. Our experiments show that the
+proposed architecture can learn to play the environment well, and score 33%
+better than standard Deep Q-learning which in turn proves the usefulness of the
+game environment.",2017-12-17,2017,2017-12,environment,http://arxiv.org/abs/1712.06180v1
+"Narrow Artificial Intelligence with Machine Learning for Real-Time
+  Estimation of a Mobile Agents Location Using Hidden Markov Models","We propose to use a supervised machine learning technique to track the
+location of a mobile agent in real time. Hidden Markov Models are used to build
+artificial intelligence that estimates the unknown position of a mobile target
+moving in a defined environment. This narrow artificial intelligence performs
+two distinct tasks. First, it provides real-time estimation of the mobile
+agent's position using the forward algorithm. Second, it uses the Baum-Welch
+algorithm as a statistical learning tool to gain knowledge of the mobile
+target. Finally, an experimental environment is proposed, namely a video game
+that we use to test our artificial intelligence. We present statistical and
+graphical results to illustrate the efficiency of our method.",2018-02-09,2018,2018-02,environment,http://arxiv.org/abs/1802.03417v1
+"Challenges and Characteristics of Intelligent Autonomy for Internet of
+  Battle Things in Highly Adversarial Environments","Numerous, artificially intelligent, networked things will populate the
+battlefield of the future, operating in close collaboration with human
+warfighters, and fighting as teams in highly adversarial environments. This
+paper explores the characteristics, capabilities and intelligence required of
+such a network of intelligent things and humans - Internet of Battle Things
+(IOBT). It will experience unique challenges that are not yet well addressed by
+the current generation of AI and machine learning.",2018-03-20,2018,2018-03,environment,http://arxiv.org/abs/1803.11256v2
+Artificial Intelligence and its Role in Near Future,"AI technology has a long history which is actively and constantly changing
+and growing. It focuses on intelligent agents, which contain devices that
+perceive the environment and based on which takes actions in order to maximize
+goal success chances. In this paper, we will explain the modern AI basics and
+various representative applications of AI. In the context of the modern
+digitalized world, AI is the property of machines, computer programs, and
+systems to perform the intellectual and creative functions of a person,
+independently find ways to solve problems, be able to draw conclusions and make
+decisions. Most artificial intelligence systems have the ability to learn,
+which allows people to improve their performance over time. The recent research
+on AI tools, including machine learning, deep learning and predictive analysis
+intended toward increasing the planning, learning, reasoning, thinking and
+action taking ability. Based on which, the proposed research intends towards
+exploring on how the human intelligence differs from the artificial
+intelligence. Moreover, we critically analyze what AI of today is capable of
+doing, why it still cannot reach human intelligence and what are the open
+challenges existing in front of AI to reach and outperform human level of
+intelligence. Furthermore, it will explore the future predictions for
+artificial intelligence and based on which potential solution will be
+recommended to solve it within next decades.",2018-04-01,2018,2018-04,environment,http://arxiv.org/abs/1804.01396v1
+Autonomous Wireless Systems with Artificial Intelligence,"This paper discusses technology and opportunities to embrace artificial
+intelligence (AI) in the design of autonomous wireless systems. We aim to
+provide readers with motivation and general AI methodology of autonomous agents
+in the context of self-organization in real time by unifying knowledge
+management with sensing, reasoning and active learning. We highlight
+differences between training-based methods for matching problems and
+training-free methods for environment-specific problems. Finally, we
+conceptually introduce the functions of an autonomous agent with knowledge
+management.",2018-06-27,2018,2018-06,environment,http://arxiv.org/abs/1806.10518v2
+"Experience, Imitation and Reflection; Confucius' Conjecture and Machine
+  Learning","Artificial intelligence recently had a great advancements caused by the
+emergence of new processing power and machine learning methods. Having said
+that, the learning capability of artificial intelligence is still at its
+infancy comparing to the learning capability of human and many animals. Many of
+the current artificial intelligence applications can only operate in a very
+orchestrated, specific environments with an extensive training set that exactly
+describes the conditions that will occur during execution time. Having that in
+mind, and considering the several existing machine learning methods this
+question rises that 'What are some of the best ways for a machine to learn?'
+Regarding the learning methods of human, Confucius' point of view is that they
+are by experience, imitation and reflection. This paper tries to explore and
+discuss regarding these three ways of learning and their implementations in
+machines by having a look at how they happen in minds.",2018-08-01,2018,2018-08,environment,http://arxiv.org/abs/1808.00222v1
+"The Dreaming Variational Autoencoder for Reinforcement Learning
+  Environments","Reinforcement learning has shown great potential in generalizing over raw
+sensory data using only a single neural network for value optimization. There
+are several challenges in the current state-of-the-art reinforcement learning
+algorithms that prevent them from converging towards the global optima. It is
+likely that the solution to these problems lies in short- and long-term
+planning, exploration and memory management for reinforcement learning
+algorithms. Games are often used to benchmark reinforcement learning algorithms
+as they provide a flexible, reproducible, and easy to control environment.
+Regardless, few games feature a state-space where results in exploration,
+memory, and planning are easily perceived. This paper presents The Dreaming
+Variational Autoencoder (DVAE), a neural network based generative modeling
+architecture for exploration in environments with sparse feedback. We further
+present Deep Maze, a novel and flexible maze engine that challenges DVAE in
+partial and fully-observable state-spaces, long-horizon tasks, and
+deterministic and stochastic problems. We show initial findings and encourage
+further work in reinforcement learning driven by generative exploration.",2018-10-02,2018,2018-10,environment,http://arxiv.org/abs/1810.01112v1
+Environments for Lifelong Reinforcement Learning,"To achieve general artificial intelligence, reinforcement learning (RL)
+agents should learn not only to optimize returns for one specific task but also
+to constantly build more complex skills and scaffold their knowledge about the
+world, without forgetting what has already been learned. In this paper, we
+discuss the desired characteristics of environments that can support the
+training and evaluation of lifelong reinforcement learning agents, review
+existing environments from this perspective, and propose recommendations for
+devising suitable environments in the future.",2018-11-26,2018,2018-11,environment,http://arxiv.org/abs/1811.10732v2
+"Evaluation of Multidisciplinary Effects of Artificial Intelligence with
+  Optimization Perspective","Artificial Intelligence has an important place in the scientific community as
+a result of its successful outputs in terms of different fields. In time, the
+field of Artificial Intelligence has been divided into many sub-fields because
+of increasing number of different solution approaches, methods, and techniques.
+Machine Learning has the most remarkable role with its functions to learn from
+samples from the environment. On the other hand, intelligent optimization done
+by inspiring from nature and swarms had its own unique scientific literature,
+with effective solutions provided for optimization problems from different
+fields. Because intelligent optimization can be applied in different fields
+effectively, this study aims to provide a general discussion on
+multidisciplinary effects of Artificial Intelligence by considering its
+optimization oriented solutions. The study briefly focuses on background of the
+intelligent optimization briefly and then gives application examples of
+intelligent optimization from a multidisciplinary perspective.",2019-02-04,2019,2019-02,environment,http://arxiv.org/abs/1902.01362v1
+"Marathon Environments: Multi-Agent Continuous Control Benchmarks in a
+  Modern Video Game Engine","Recent advances in deep reinforcement learning in the paradigm of locomotion
+using continuous control have raised the interest of game makers for the
+potential of digital actors using active ragdoll. Currently, the available
+options to develop these ideas are either researchers' limited codebase or
+proprietary closed systems. We present Marathon Environments, a suite of open
+source, continuous control benchmarks implemented on the Unity game engine,
+using the Unity ML- Agents Toolkit. We demonstrate through these benchmarks
+that continuous control research is transferable to a commercial game engine.
+Furthermore, we exhibit the robustness of these environments by reproducing
+advanced continuous control research, such as learning to walk, run and
+backflip from motion capture data; learning to navigate complex terrains; and
+by implementing a video game input control system. We show further robustness
+by training with alternative algorithms found in OpenAI.Baselines. Finally, we
+share strategies for significantly reducing the training time.",2019-02-25,2019,2019-02,environment,http://arxiv.org/abs/1902.09097v1
+"Artificial Intelligence in Intelligent Tutoring Robots: A Systematic
+  Review and Design Guidelines","This study provides a systematic review of the recent advances in designing
+the intelligent tutoring robot (ITR), and summarises the status quo of applying
+artificial intelligence (AI) techniques. We first analyse the environment of
+the ITR and propose a relationship model for describing interactions of ITR
+with the students, the social milieu and the curriculum. Then, we transform the
+relationship model into the perception-planning-action model for exploring what
+AI techniques are suitable to be applied in the ITR. This article provides
+insights on promoting human-robot teaching-learning process and AI-assisted
+educational techniques, illustrating the design guidelines and future research
+perspectives in intelligent tutoring robots.",2019-02-26,2019,2019-02,environment,http://arxiv.org/abs/1903.03414v1
+Intelligent Autonomous Things on the Battlefield,"Numerous, artificially intelligent, networked things will populate the
+battlefield of the future, operating in close collaboration with human
+warfighters, and fighting as teams in highly adversarial environments. This
+chapter explores the characteristics, capabilities and intelli-gence required
+of such a network of intelligent things and humans - Internet of Battle Things
+(IOBT). The IOBT will experience unique challenges that are not yet well
+addressed by the current generation of AI and machine learning.",2019-02-26,2019,2019-02,environment,http://arxiv.org/abs/1902.10086v1
+"An Actor-Critic-Attention Mechanism for Deep Reinforcement Learning in
+  Multi-view Environments","In reinforcement learning algorithms, leveraging multiple views of the
+environment can improve the learning of complicated policies. In multi-view
+environments, due to the fact that the views may frequently suffer from partial
+observability, their level of importance are often different. In this paper, we
+propose a deep reinforcement learning method and an attention mechanism in a
+multi-view environment. Each view can provide various representative
+information about the environment. Through our attention mechanism, our method
+generates a single feature representation of environment given its multiple
+views. It learns a policy to dynamically attend to each view based on its
+importance in the decision-making process. Through experiments, we show that
+our method outperforms its state-of-the-art baselines on TORCS racing car
+simulator and three other complex 3D environments with obstacles. We also
+provide experimental results to evaluate the performance of our method on noisy
+conditions and partial observation settings.",2019-07-19,2019,2019-07,environment,http://arxiv.org/abs/1907.09466v1
+Artificial Intelligence Approaches,"Artificial Intelligence (AI) has received tremendous attention from academia,
+industry, and the general public in recent years. The integration of geography
+and AI, or GeoAI, provides novel approaches for addressing a variety of
+problems in the natural environment and our human society. This entry briefly
+reviews the recent development of AI with a focus on machine learning and deep
+learning approaches. We discuss the integration of AI with geography and
+particularly geographic information science, and present a number of GeoAI
+applications and possible future directions.",2019-08-27,2019,2019-08,environment,http://arxiv.org/abs/1908.10345v1
+"The Animal-AI Environment: Training and Testing Animal-Like Artificial
+  Cognition","Recent advances in artificial intelligence have been strongly driven by the
+use of game environments for training and evaluating agents. Games are often
+accessible and versatile, with well-defined state-transitions and goals
+allowing for intensive training and experimentation. However, agents trained in
+a particular environment are usually tested on the same or slightly varied
+distributions, and solutions do not necessarily imply any understanding. If we
+want AI systems that can model and understand their environment, we need
+environments that explicitly test for this. Inspired by the extensive
+literature on animal cognition, we present an environment that keeps all the
+positive elements of standard gaming environments, but is explicitly designed
+for the testing of animal-like artificial cognition.",2019-09-12,2019,2019-09,environment,http://arxiv.org/abs/1909.07483v2
+"A Perceived Environment Design using a Multi-Modal Variational
+  Autoencoder for learning Active-Sensing","This contribution comprises the interplay between a multi-modal variational
+autoencoder and an environment to a perceived environment, on which an agent
+can act. Furthermore, we conclude our work with a comparison to
+curiosity-driven learning.",2019-11-01,2019,2019-11,environment,http://arxiv.org/abs/1911.00584v1
+"Artificial Intelligence Strategies for National Security and Safety
+  Standards","Recent advances in artificial intelligence (AI) have lead to an explosion of
+multimedia applications (e.g., computer vision (CV) and natural language
+processing (NLP)) for different domains such as commercial, industrial, and
+intelligence. In particular, the use of AI applications in a national security
+environment is often problematic because the opaque nature of the systems leads
+to an inability for a human to understand how the results came about. A
+reliance on 'black boxes' to generate predictions and inform decisions is
+potentially disastrous. This paper explores how the application of standards
+during each stage of the development of an AI system deployed and used in a
+national security environment would help enable trust. Specifically, we focus
+on the standards outlined in Intelligence Community Directive 203 (Analytic
+Standards) to subject machine outputs to the same rigorous standards as
+analysis performed by humans.",2019-11-03,2019,2019-11,environment,http://arxiv.org/abs/1911.05727v1
+"IKEA Furniture Assembly Environment for Long-Horizon Complex
+  Manipulation Tasks","The IKEA Furniture Assembly Environment is one of the first benchmarks for
+testing and accelerating the automation of complex manipulation tasks. The
+environment is designed to advance reinforcement learning from simple toy tasks
+to complex tasks requiring both long-term planning and sophisticated low-level
+control. Our environment supports over 80 different furniture models, Sawyer
+and Baxter robot simulation, and domain randomization. The IKEA Furniture
+Assembly Environment is a testbed for methods aiming to solve complex
+manipulation tasks. The environment is publicly available at
+https://clvrai.com/furniture",2019-11-17,2019,2019-11,environment,http://arxiv.org/abs/1911.07246v1
+Artificial Intelligence Aided Next-Generation Networks Relying on UAVs,"Artificial intelligence (AI) assisted unmanned aerial vehicle (UAV) aided
+next-generation networking is proposed for dynamic environments. In the
+AI-enabled UAV-aided wireless networks (UAWN), multiple UAVs are employed as
+aerial base stations, which are capable of rapidly adapting to the dynamic
+environment by collecting information about the users' position and
+tele-traffic demands, learning from the environment and acting upon the
+feedback received from the users. Moreover, AI enables the interaction amongst
+a swarm of UAVs for cooperative optimization of the system. As a benefit of the
+AI framework, several challenges of conventional UAWN may be circumvented,
+leading to enhanced network performance, improved reliability and agile
+adaptivity. As a further benefit, dynamic trajectory design and resource
+allocation are demonstrated. Finally, potential research challenges and
+opportunities are discussed.",2020-01-28,2020,2020-01,environment,http://arxiv.org/abs/2001.11958v1
+Hacia los Comités de Ética en Inteligencia Artificial,"The goal of Artificial Intelligence based systems is to take decisions that
+have an effect in their environment and impact society. This points out to the
+necessity of mechanism that regulate the impact of this type of system in
+society. For this reason, it is priority to create the rules and specialized
+organizations that can oversight the following of such rules, particularly that
+human rights precepts at local and international level. This work proposes the
+creation, at the universities, of Ethical Committees or Commissions specialized
+on Artificial Intelligence that would be in charge of define the principles and
+will guarantee the following of good practices in the field Artificial
+Intelligence.",2020-02-11,2020,2020-02,environment,http://arxiv.org/abs/2002.05673v1
+"Wireless 2.0: Towards an Intelligent Radio Environment Empowered by
+  Reconfigurable Meta-Surfaces and Artificial Intelligence","We introduce ""Wireless 2.0"": The future generation of wireless communication
+networks, where the radio environment becomes controllable, programmable, and
+intelligent by leveraging the emerging technologies of reconfigurable
+metasurfaces and artificial intelligence (AI). This paper, in particular, puts
+the emphasis on AI-based computational methods and commence with an overview of
+the concept of intelligent radio environments based on reconfigurable
+meta-surfaces. Later we elaborate on data management aspects, the requirements
+of supervised learning by examples, and the paradigm of reinforcement learning
+(RL) to learn by acting. Finally, we highlight numerous open challenges and
+research directions.",2020-02-23,2020,2020-02,environment,http://arxiv.org/abs/2002.11040v1
+Trust-based Multiagent Consensus or Weightings Aggregation,"We introduce a framework for reaching a consensus amongst several agents
+communicating via a trust network on conflicting information about their
+environment. We formalise our approach and provide an empirical and theoretical
+analysis of its properties.",2020-04-06,2020,2020-04,environment,http://arxiv.org/abs/2004.02490v1
+"Design of a dynamic and self adapting system, supported with artificial
+  intelligence, machine learning and real time intelligence for predictive
+  cyber risk analytics in extreme environments, cyber risk in the colonisation
+  of Mars","Multiple governmental agencies and private organisations have made
+commitments for the colonisation of Mars. Such colonisation requires complex
+systems and infrastructure that could be very costly to repair or replace in
+cases of cyber attacks. This paper surveys deep learning algorithms, IoT cyber
+security and risk models, and established mathematical formulas to identify the
+best approach for developing a dynamic and self adapting system for predictive
+cyber risk analytics supported with Artificial Intelligence and Machine
+Learning and real time intelligence in edge computing. The paper presents a new
+mathematical approach for integrating concepts for cognition engine design,
+edge computing and Artificial Intelligence and Machine Learning to automate
+anomaly detection. This engine instigates a step change by applying Artificial
+Intelligence and Machine Learning embedded at the edge of IoT networks, to
+deliver safe and functional real time intelligence for predictive cyber risk
+analytics. This will enhance capacities for risk analytics and assists in the
+creation of a comprehensive and systematic understanding of the opportunities
+and threats that arise when edge computing nodes are deployed, and when
+Artificial Intelligence and Machine Learning technologies are migrated to the
+periphery of the internet and into local IoT networks.",2020-05-19,2020,2020-05,environment,http://arxiv.org/abs/2005.12150v2
+"Synergetic Learning Systems: Concept, Architecture, and Algorithms","Drawing on the idea that brain development is a Darwinian process of
+``evolution + selection'' and the idea that the current state is a local
+equilibrium state of many bodies with self-organization and evolution processes
+driven by the temperature and gravity in our universe, in this work, we
+describe an artificial intelligence system called the ``Synergetic Learning
+Systems''. The system is composed of two or more subsystems (models, agents or
+virtual bodies), and it is an open complex giant system. Inspired by natural
+intelligence, the system achieves intelligent information processing and
+decision-making in a given environment through cooperative/competitive
+synergetic learning. The intelligence evolved by the natural law of ``it is not
+the strongest of the species that survives, but the one most responsive to
+change,'' while an artificial intelligence system should adopt the law of
+``human selection'' in the evolution process. Therefore, we expect that the
+proposed system architecture can also be adapted in human-machine synergy or
+multi-agent synergetic systems. It is also expected that under our design
+criteria, the proposed system will eventually achieve artificial general
+intelligence through long term coevolution.",2020-05-31,2020,2020-05,environment,http://arxiv.org/abs/2006.06367v2
+Human $\neq$ AGI,"Terms Artificial General Intelligence (AGI) and Human-Level Artificial
+Intelligence (HLAI) have been used interchangeably to refer to the Holy Grail
+of Artificial Intelligence (AI) research, creation of a machine capable of
+achieving goals in a wide range of environments. However, widespread implicit
+assumption of equivalence between capabilities of AGI and HLAI appears to be
+unjustified, as humans are not general intelligences. In this paper, we will
+prove this distinction.",2020-07-11,2020,2020-07,environment,http://arxiv.org/abs/2007.07710v1
+"A deep Q-Learning based Path Planning and Navigation System for
+  Firefighting Environments","Live fire creates a dynamic, rapidly changing environment that presents a
+worthy challenge for deep learning and artificial intelligence methodologies to
+assist firefighters with scene comprehension in maintaining their situational
+awareness, tracking and relay of important features necessary for key decisions
+as they tackle these catastrophic events. We propose a deep Q-learning based
+agent who is immune to stress induced disorientation and anxiety and thus able
+to make clear decisions for navigation based on the observed and stored facts
+in live fire environments. As a proof of concept, we imitate structural fire in
+a gaming engine called Unreal Engine which enables the interaction of the agent
+with the environment. The agent is trained with a deep Q-learning algorithm
+based on a set of rewards and penalties as per its actions on the environment.
+We exploit experience replay to accelerate the learning process and augment the
+learning of the agent with human-derived experiences. The agent trained under
+this deep Q-learning approach outperforms agents trained through alternative
+path planning systems and demonstrates this methodology as a promising
+foundation on which to build a path planning navigation assistant capable of
+safely guiding fire fighters through live fire environments.",2020-11-12,2020,2020-11,environment,http://arxiv.org/abs/2011.06450v1
+DeepMind Lab2D,"We present DeepMind Lab2D, a scalable environment simulator for artificial
+intelligence research that facilitates researcher-led experimentation with
+environment design. DeepMind Lab2D was built with the specific needs of
+multi-agent deep reinforcement learning researchers in mind, but it may also be
+useful beyond that particular subfield.",2020-11-13,2020,2020-11,environment,http://arxiv.org/abs/2011.07027v2
+"Empowering Things with Intelligence: A Survey of the Progress,
+  Challenges, and Opportunities in Artificial Intelligence of Things","In the Internet of Things (IoT) era, billions of sensors and devices collect
+and process data from the environment, transmit them to cloud centers, and
+receive feedback via the internet for connectivity and perception. However,
+transmitting massive amounts of heterogeneous data, perceiving complex
+environments from these data, and then making smart decisions in a timely
+manner are difficult. Artificial intelligence (AI), especially deep learning,
+is now a proven success in various areas including computer vision, speech
+recognition, and natural language processing. AI introduced into the IoT
+heralds the era of artificial intelligence of things (AIoT). This paper
+presents a comprehensive survey on AIoT to show how AI can empower the IoT to
+make it faster, smarter, greener, and safer. Specifically, we briefly present
+the AIoT architecture in the context of cloud computing, fog computing, and
+edge computing. Then, we present progress in AI research for IoT from four
+perspectives: perceiving, learning, reasoning, and behaving. Next, we summarize
+some promising applications of AIoT that are likely to profoundly reshape our
+world. Finally, we highlight the challenges facing AIoT and some potential
+research opportunities.",2020-11-17,2020,2020-11,environment,http://arxiv.org/abs/2011.08612v1
+On limitations of learning algorithms in competitive environments,"We discuss conceptual limitations of generic learning algorithms pursuing
+adversarial goals in competitive environments, and prove that they are subject
+to limitations that are analogous to the constraints on knowledge imposed by
+the famous theorems of G\""odel and Turing. These limitations are shown to be
+related to intransitivity, which is commonly present in competitive
+environments.",2020-11-25,2020,2020-11,environment,http://arxiv.org/abs/2011.12728v2
+"Intelligent behavior depends on the ecological niche: Scaling up AI to
+  human-like intelligence in socio-cultural environments","This paper outlines a perspective on the future of AI, discussing directions
+for machines models of human-like intelligence. We explain how developmental
+and evolutionary theories of human cognition should further inform artificial
+intelligence. We emphasize the role of ecological niches in sculpting
+intelligent behavior, and in particular that human intelligence was
+fundamentally shaped to adapt to a constantly changing socio-cultural
+environment. We argue that a major limit of current work in AI is that it is
+missing this perspective, both theoretically and experimentally. Finally, we
+discuss the promising approach of developmental artificial intelligence,
+modeling infant development through multi-scale interaction between
+intrinsically motivated learning, embodiment and a fastly changing
+socio-cultural environment. This paper takes the form of an interview of
+Pierre-Yves Oudeyer by Mandred Eppe, organized within the context of a KI -
+K{\""{u}}nstliche Intelligenz special issue in developmental robotics.",2021-03-11,2021,2021-03,environment,http://arxiv.org/abs/2103.06769v1
+Modular Procedural Generation for Voxel Maps,"Task environments developed in Minecraft are becoming increasingly popular
+for artificial intelligence (AI) research. However, most of these are currently
+constructed manually, thus failing to take advantage of procedural content
+generation (PCG), a capability unique to virtual task environments. In this
+paper, we present mcg, an open-source library to facilitate implementing PCG
+algorithms for voxel-based environments such as Minecraft. The library is
+designed with human-machine teaming research in mind, and thus takes a
+'top-down' approach to generation, simultaneously generating low and high level
+machine-readable representations that are suitable for empirical research.
+These can be consumed by downstream AI applications that consider human spatial
+cognition. The benefits of this approach include rapid, scalable, and efficient
+development of virtual environments, the ability to control the statistics of
+the environment at a semantic level, and the ability to generate novel
+environments in response to player actions in real time.",2021-04-18,2021,2021-04,environment,http://arxiv.org/abs/2104.08890v1
+"An Efficient Application of Neuroevolution for Competitive Multiagent
+  Learning","Multiagent systems provide an ideal environment for the evaluation and
+analysis of real-world problems using reinforcement learning algorithms. Most
+traditional approaches to multiagent learning are affected by long training
+periods as well as high computational complexity. NEAT (NeuroEvolution of
+Augmenting Topologies) is a popular evolutionary strategy used to obtain the
+best performing neural network architecture often used to tackle optimization
+problems in the field of artificial intelligence. This paper utilizes the NEAT
+algorithm to achieve competitive multiagent learning on a modified pong game
+environment in an efficient manner. The competing agents abide by different
+rules while having similar observation space parameters. The proposed algorithm
+utilizes this property of the environment to define a singular
+neuroevolutionary procedure that obtains the optimal policy for all the agents.
+The compiled results indicate that the proposed implementation achieves ideal
+behaviour in a very short training period when compared to existing multiagent
+reinforcement learning models.",2021-05-23,2021,2021-05,environment,http://arxiv.org/abs/2105.10907v1
+"Multi-Context Systems: Dynamics and Evolution (Pre-Print of
+  ""Multi-context systems in dynamic environments"")","Multi-Context Systems (MCS) model in Computational Logic distributed systems
+composed of heterogeneous sources, or ""contexts"", interacting via special rules
+called ""bridge rules"". In this paper, we consider how to enhance flexibility
+and generality in bridge-rules definition and application. In particular, we
+introduce and discuss some formal extensions of MCSs useful for a practical use
+in dynamic environments, and we try to provide guidelines for implementations",2021-06-12,2021,2021-06,environment,http://arxiv.org/abs/2106.06780v1
+"A Systematic Survey of Text Worlds as Embodied Natural Language
+  Environments","Text Worlds are virtual environments for embodied agents that, unlike 2D or
+3D environments, are rendered exclusively using textual descriptions. These
+environments offer an alternative to higher-fidelity 3D environments due to
+their low barrier to entry, providing the ability to study semantics,
+compositional inference, and other high-level tasks with rich high-level action
+spaces while controlling for perceptual input. This systematic survey outlines
+recent developments in tooling, environments, and agent modeling for Text
+Worlds, while examining recent trends in knowledge graphs, common sense
+reasoning, transfer learning of Text World performance to higher-fidelity
+environments, as well as near-term development targets that, once achieved,
+make Text Worlds an attractive general research paradigm for natural language
+processing.",2021-07-08,2021,2021-07,environment,http://arxiv.org/abs/2107.04132v1
+"Artificial intelligence for Sustainable Energy: A Contextual Topic
+  Modeling and Content Analysis","Parallel to the rising debates over sustainable energy and artificial
+intelligence solutions, the world is currently discussing the ethics of
+artificial intelligence and its possible negative effects on society and the
+environment. In these arguments, sustainable AI is proposed, which aims at
+advancing the pathway toward sustainability, such as sustainable energy. In
+this paper, we offered a novel contextual topic modeling combining LDA, BERT,
+and Clustering. We then combined these computational analyses with content
+analysis of related scientific publications to identify the main scholarly
+topics, sub-themes, and cross-topic themes within scientific research on
+sustainable AI in energy. Our research identified eight dominant topics
+including sustainable buildings, AI-based DSSs for urban water management,
+climate artificial intelligence, Agriculture 4, the convergence of AI with IoT,
+AI-based evaluation of renewable technologies, smart campus and engineering
+education, and AI-based optimization. We then recommended 14 potential future
+research strands based on the observed theoretical gaps. Theoretically, this
+analysis contributes to the existing literature on sustainable AI and
+sustainable energy, and practically, it intends to act as a general guide for
+energy engineers and scientists, AI scientists, and social scientists to widen
+their knowledge of sustainability in AI and energy convergence research.",2021-10-02,2021,2021-10,environment,http://arxiv.org/abs/2110.00828v1
+"Perceptions and attitudes of Children and Young People to Artificial
+  Intelligence in Medicine","There is increasing interest in Artificial Intelligence and its application
+to medicine. Perceptions are less well-known, notably amongst children and
+young people. 21 members of a Young Persons Advisory Group for research,
+recommend creating an enabling environment with children and young people,
+through educational workshops with practical examples that use Artificial
+Intelligence to help, but not replace humans, address issues, build trust, and
+effectively communicate about potential opportunities.",2021-10-10,2021,2021-10,environment,http://arxiv.org/abs/2110.04890v1
+"Artificial Intelligence Technology analysis using Artificial
+  Intelligence patent through Deep Learning model and vector space model","Thanks to rapid development of artificial intelligence technology in recent
+years, the current artificial intelligence technology is contributing to many
+part of society. Education, environment, medical care, military, tourism,
+economy, politics, etc. are having a very large impact on society as a whole.
+For example, in the field of education, there is an artificial intelligence
+tutoring system that automatically assigns tutors based on student's level. In
+the field of economics, there are quantitative investment methods that
+automatically analyze large amounts of data to find investment laws to create
+investment models or predict changes in financial markets. As such, artificial
+intelligence technology is being used in various fields. So, it is very
+important to know exactly what factors have an important influence on each
+field of artificial intelligence technology and how the relationship between
+each field is connected. Therefore, it is necessary to analyze artificial
+intelligence technology in each field. In this paper, we analyze patent
+documents related to artificial intelligence technology. We propose a method
+for keyword analysis within factors using artificial intelligence patent data
+sets for artificial intelligence technology analysis. This is a model that
+relies on feature engineering based on deep learning model named KeyBERT, and
+using vector space model. A case study of collecting and analyzing artificial
+intelligence patent data was conducted to show how the proposed model can be
+applied to real world problems.",2021-11-08,2021,2021-11,environment,http://arxiv.org/abs/2111.11295v1
+"A Survey on Applications of Digital Human Avatars toward Virtual
+  Co-presence","This paper investigates different approaches to build and use digital human
+avatars toward interactive Virtual Co-presence (VCP) environments. We evaluate
+the evolution of technologies for creating VCP environments and how the
+advancement in Artificial Intelligence (AI) and Computer Graphics affect the
+quality of VCP environments. We categorize different methods in the literature
+based on their applications and methodology and compare various groups and
+strategies based on their applications, contributions, and limitations. We also
+have a brief discussion about the approaches that other forms of human
+representation, rather than digital human avatars, have been utilized in VCP
+environments. Our goal is to fill the gap in the research domain where there is
+a lack of literature review investigating different approaches for creating
+avatar-based VCP environments. We hope this study will be useful for future
+research involving human representation in VCP or Virtual Reality (VR)
+environments. To the best of our knowledge, it is the first survey research
+that investigates avatar-based VCP environments. Specifically, the
+categorization methodology suggested in this paper for avatar-based methods is
+new.",2022-01-11,2022,2022-01,environment,http://arxiv.org/abs/2201.04168v1
+"Creative Problem Solving in Artificially Intelligent Agents: A Survey
+  and Framework","Creative Problem Solving (CPS) is a sub-area within Artificial Intelligence
+(AI) that focuses on methods for solving off-nominal, or anomalous problems in
+autonomous systems. Despite many advancements in planning and learning,
+resolving novel problems or adapting existing knowledge to a new context,
+especially in cases where the environment may change in unpredictable ways post
+deployment, remains a limiting factor in the safe and useful integration of
+intelligent systems. The emergence of increasingly autonomous systems dictates
+the necessity for AI agents to deal with environmental uncertainty through
+creativity. To stimulate further research in CPS, we present a definition and a
+framework of CPS, which we adopt to categorize existing AI methods in this
+field. Our framework consists of four main components of a CPS problem, namely,
+1) problem formulation, 2) knowledge representation, 3) method of knowledge
+manipulation, and 4) method of evaluation. We conclude our survey with open
+research questions, and suggested directions for the future.",2022-04-21,2022,2022-04,environment,http://arxiv.org/abs/2204.10358v1
+Unified Distributed Environment,"We propose Unified Distributed Environment (UDE), an environment
+virtualization toolkit for reinforcement learning research. UDE is designed to
+integrate environments built on any simulation platform such as Gazebo, Unity,
+Unreal, and OpenAI Gym. Through environment virtualization, UDE enables
+offloading the environment for execution on a remote machine while still
+maintaining a unified interface. The UDE interface is designed to support
+multi-agent by default. With environment virtualization and its interface
+design, the agent policies can be trained in multiple machines for a
+multi-agent environment. Furthermore, UDE supports integration with existing
+major RL toolkits for researchers to leverage the benefits. This paper
+discusses the components of UDE and its design decisions.",2022-05-14,2022,2022-05,environment,http://arxiv.org/abs/2205.06946v1
+Autonomous Visual Navigation A Biologically Inspired Approach,"Inspired by the navigational behavior observed in the animal kingdom and
+especially the navigational behavior of the ants, we attempt to simulate it in
+an artificial environment by implementing different kinds of biomimetic
+algorithms.",2022-09-19,2022,2022-09,environment,http://arxiv.org/abs/2209.09663v1
+Explainability in autonomous pedagogically structured scenarios,"We present the notion of explainability for decision-making processes in a
+pedagogically structured autonomous environment. Multi-agent systems that are
+structured pedagogically consist of pedagogical teachers and learners that
+operate in environments in which both are sometimes not fully aware of all the
+states in the environment and beliefs of other agents thus making it
+challenging to explain their decisions and actions with one another. This work
+emphasises the need for robust and iterative explanation-based communication
+between the pedagogical teacher and the learner. Explaining the rationale
+behind multi-agent decisions in an interactive, partially observable
+environment is necessary to build trustworthy and reliable communication
+between pedagogical teachers and learners. Ongoing research is primarily
+focused on explanations of the agents' behaviour towards humans, and there is a
+lack of research on inter-agent explainability.",2022-10-21,2022,2022-10,environment,http://arxiv.org/abs/2210.12140v1
+Transformers as Policies for Variable Action Environments,"In this project we demonstrate the effectiveness of the transformer encoder
+as a viable architecture for policies in variable action environments. Using
+it, we train an agent using Proximal Policy Optimisation (PPO) on multiple maps
+against scripted opponents in the Gym-$\mu$RTS environment. The final agent is
+able to achieve a higher return using half the computational resources of the
+next-best RL agent, which used the GridNet architecture.
+  The source code and pre-trained models are available here:
+https://github.com/NiklasZ/transformers-for-variable-action-envs",2023-01-09,2023,2023-01,environment,http://arxiv.org/abs/2301.03679v1
+"Self-mediated exploration in artificial intelligence inspired by
+  cognitive psychology","Exploration of the physical environment is an indispensable precursor to data
+acquisition and enables knowledge generation via analytical or direct trialing.
+Artificial Intelligence lacks the exploratory capabilities of even the most
+underdeveloped organisms, hindering its autonomy and adaptability. Supported by
+cognitive psychology, this works links human behavior and artificial agents to
+endorse self-development. In accordance with reported data, paradigms of
+epistemic and achievement emotion are embedded to machine-learning methodology
+contingent on their impact when decision making. A study is subsequently
+designed to mirror previous human trials, which artificial agents are made to
+undergo repeatedly towards convergence. Results demonstrate causality, learned
+by the vast majority of agents, between their internal states and exploration
+to match those reported for human counterparts. The ramifications of these
+findings are pondered for both research into human cognition and betterment of
+artificial intelligence.",2023-02-13,2023,2023-02,environment,http://arxiv.org/abs/2302.06615v1
+Towards Measuring Ethicality of an Intelligent Assistive System,"Artificial intelligence (AI) based assistive systems, so called intelligent
+assistive technology (IAT) are becoming increasingly ubiquitous by each day.
+IAT helps people in improving their quality of life by providing intelligent
+assistance based on the provided data. A few examples of such IATs include
+self-driving cars, robot assistants and smart-health management solutions.
+However, the presence of such autonomous entities poses ethical challenges
+concerning the stakeholders involved in using these systems. There is a lack of
+research when it comes to analysing how such IAT adheres to provided ethical
+regulations due to ethical, logistic and cost issues associated with such an
+analysis. In the light of the above-mentioned problem statement and issues, we
+present a method to measure the ethicality of an assistive system. To perform
+this task, we utilised our simulation tool that focuses on modelling navigation
+and assistance of Persons with Dementia (PwD) in indoor environments. By
+utilising this tool, we analyse how well different assistive strategies adhere
+to provided ethical regulations such as autonomy, justice and beneficence of
+the stakeholders.",2023-02-28,2023,2023-02,environment,http://arxiv.org/abs/2303.03929v1
+Games for Artificial Intelligence Research: A Review and Perspectives,"Games have been the perfect test-beds for artificial intelligence research
+for the characteristics that widely exist in real-world scenarios. Learning and
+optimisation, decision making in dynamic and uncertain environments, game
+theory, planning and scheduling, design and education are common research areas
+shared between games and real-world problems. Numerous open-source games or
+game-based environments have been implemented for studying artificial
+intelligence. In addition to single- or multi-player, collaborative or
+adversarial games, there has also been growing interest in implementing
+platforms for creative design in recent years. Those platforms provide ideal
+benchmarks for exploring and comparing artificial intelligence ideas and
+techniques. This paper reviews the games and game-based platforms for
+artificial intelligence research, provides guidance on matching particular
+types of artificial intelligence with suitable games for testing and matching
+particular needs in games with suitable artificial intelligence techniques,
+discusses the research trend induced by the evolution of those games and
+platforms, and gives an outlook.",2023-04-26,2023,2023-04,environment,http://arxiv.org/abs/2304.13269v4
+Ambient Technology & Intelligence,"Ambient intelligence refers to technological enhanced electronic environments
+which are both responsive and sensitive to the presence of people within their
+environment. Environments that are integrated with ambient intelligence tends
+to adapt to the needs of individuals within the environment in an unobtrusive
+manner in such a way as to enhance everyday life thereby making interaction
+with technology extremely seamless and well integrated. This capability was
+made possible because it is a concept that combines several key technologies
+such as IoT (Internet of Things) technology, sensor technology, AI (Artificial
+Intelligence), and advanced human-computer interaction all embedded and
+integrated together with the environment.",2023-05-18,2023,2023-05,environment,http://arxiv.org/abs/2305.10726v2
+Robots in the Garden: Artificial Intelligence and Adaptive Landscapes,"This paper introduces ELUA, the Ecological Laboratory for Urban Agriculture,
+a collaboration among landscape architects, architects and computer scientists
+who specialize in artificial intelligence, robotics and computer vision. ELUA
+has two gantry robots, one indoors and the other outside on the rooftop of a
+6-story campus building. Each robot can seed, water, weed, and prune in its
+garden. To support responsive landscape research, ELUA also includes sensor
+arrays, an AI-powered camera, and an extensive network infrastructure. This
+project demonstrates a way to integrate artificial intelligence into an
+evolving urban ecosystem, and encourages landscape architects to develop an
+adaptive design framework where design becomes a long-term engagement with the
+environment.",2023-05-22,2023,2023-05,environment,http://arxiv.org/abs/2305.13019v1
+"Enhancing Evacuation Planning through Multi-Agent Simulation and
+  Artificial Intelligence: Understanding Human Behavior in Hazardous
+  Environments","This paper focuses on the crucial task of addressing the evacuation of
+hazardous places, which holds great importance for coordinators, event hosts,
+and authorities. To facilitate the development of effective solutions, the
+paper employs Artificial Intelligence (AI) techniques, specifically Multi-Agent
+Systems (MAS), to construct a simulation model for evacuation. NetLogo is
+selected as the simulation tool of choice due to its ability to provide a
+comprehensive understanding of human behaviour in distressing situations within
+hazardous environments. The primary objective of this paper is to enhance our
+comprehension of how individuals react and respond during such distressing
+situations. By leveraging AI and MAS, the simulation model aims to capture the
+complex dynamics of evacuation scenarios, enabling policymakers and emergency
+planners to make informed decisions and implement more efficient and effective
+evacuation strategies. This paper endeavours to contribute to the advancement
+of evacuation planning and ultimately improve the safety and well-being of
+individuals in hazardous places",2023-06-11,2023,2023-06,environment,http://arxiv.org/abs/2307.09485v1
+"Adaptive User-centered Neuro-symbolic Learning for Multimodal
+  Interaction with Autonomous Systems","Recent advances in machine learning, particularly deep learning, have enabled
+autonomous systems to perceive and comprehend objects and their environments in
+a perceptual subsymbolic manner. These systems can now perform object
+detection, sensor data fusion, and language understanding tasks. However, there
+is a growing need to enhance these systems to understand objects and their
+environments more conceptually and symbolically. It is essential to consider
+both the explicit teaching provided by humans (e.g., describing a situation or
+explaining how to act) and the implicit teaching obtained by observing human
+behavior (e.g., through the system's sensors) to achieve this level of powerful
+artificial intelligence. Thus, the system must be designed with multimodal
+input and output capabilities to support implicit and explicit interaction
+models. In this position paper, we argue for considering both types of inputs,
+as well as human-in-the-loop and incremental learning techniques, for advancing
+the field of artificial intelligence and enabling autonomous systems to learn
+like humans. We propose several hypotheses and design guidelines and highlight
+a use case from related work to achieve this goal.",2023-09-11,2023,2023-09,environment,http://arxiv.org/abs/2309.05787v1
+"Life-inspired Interoceptive Artificial Intelligence for Autonomous and
+  Adaptive Agents","Building autonomous -- i.e., choosing goals based on one's needs -- and
+adaptive -- i.e., surviving in ever-changing environments -- agents has been a
+holy grail of artificial intelligence (AI). A living organism is a prime
+example of such an agent, offering important lessons about adaptive autonomy.
+Here, we focus on interoception, a process of monitoring one's internal
+environment to keep it within certain bounds, which underwrites the survival of
+an organism. To develop AI with interoception, we need to factorize the state
+variables representing internal environments from external environments and
+adopt life-inspired mathematical properties of internal environment states.
+This paper offers a new perspective on how interoception can help build
+autonomous and adaptive agents by integrating the legacy of cybernetics with
+recent advances in theories of life, reinforcement learning, and neuroscience.",2023-09-12,2023,2023-09,environment,http://arxiv.org/abs/2309.05999v2
+"The Animal-AI Environment: A Virtual Laboratory For Comparative
+  Cognition and Artificial Intelligence Research","The Animal-AI Environment is a unique game-based research platform designed
+to facilitate collaboration between the artificial intelligence and comparative
+cognition research communities. In this paper, we present the latest version of
+the Animal-AI Environment, outlining several major features that make the game
+more engaging for humans and more complex for AI systems. These features
+include interactive buttons, reward dispensers, and player notifications, as
+well as an overhaul of the environment's graphics and processing for
+significant improvements in agent training time and quality of the human player
+experience. We provide detailed guidance on how to build computational and
+behavioural experiments with the Animal-AI Environment. We present results from
+a series of agents, including the state-of-the-art deep reinforcement learning
+agent Dreamer-v3, on newly designed tests and the Animal-AI Testbed of 900
+tasks inspired by research in the field of comparative cognition. The Animal-AI
+Environment offers a new approach for modelling cognition in humans and
+non-human animals, and for building biologically inspired artificial
+intelligence.",2023-12-18,2023,2023-12,environment,http://arxiv.org/abs/2312.11414v3
+"From Two-Dimensional to Three-Dimensional Environment with Q-Learning:
+  Modeling Autonomous Navigation with Reinforcement Learning and no Libraries","Reinforcement learning (RL) algorithms have become indispensable tools in
+artificial intelligence, empowering agents to acquire optimal decision-making
+policies through interactions with their environment and feedback mechanisms.
+This study explores the performance of RL agents in both two-dimensional (2D)
+and three-dimensional (3D) environments, aiming to research the dynamics of
+learning across different spatial dimensions. A key aspect of this
+investigation is the absence of pre-made libraries for learning, with the
+algorithm developed exclusively through computational mathematics. The
+methodological framework centers on RL principles, employing a Q-learning agent
+class and distinct environment classes tailored to each spatial dimension. The
+research aims to address the question: How do reinforcement learning agents
+adapt and perform in environments of varying spatial dimensions, particularly
+in 2D and 3D settings? Through empirical analysis, the study evaluates agents'
+learning trajectories and adaptation processes, revealing insights into the
+efficacy of RL algorithms in navigating complex, multi-dimensional spaces.
+Reflections on the findings prompt considerations for future research,
+particularly in understanding the dynamics of learning in higher-dimensional
+environments.",2024-03-27,2024,2024-03,environment,http://arxiv.org/abs/2403.18219v1
+"The Transformation Risk-Benefit Model of Artificial Intelligence:
+  Balancing Risks and Benefits Through Practical Solutions and Use Cases","This paper summarizes the most cogent advantages and risks associated with
+Artificial Intelligence from an in-depth review of the literature. Then the
+authors synthesize the salient risk-related models currently being used in AI,
+technology and business-related scenarios. Next, in view of an updated context
+of AI along with theories and models reviewed and expanded constructs, the
+writers propose a new framework called ""The Transformation Risk-Benefit Model
+of Artificial Intelligence"" to address the increasing fears and levels of AI
+risk. Using the model characteristics, the article emphasizes practical and
+innovative solutions where benefits outweigh risks and three use cases in
+healthcare, climate change/environment and cyber security to illustrate unique
+interplay of principles, dimensions and processes of this powerful AI
+transformational model.",2024-04-11,2024,2024-04,environment,http://arxiv.org/abs/2406.11863v1
+"Leveraging AI to Generate Audio for User-generated Content in Video
+  Games","In video game design, audio (both environmental background music and object
+sound effects) play a critical role. Sounds are typically pre-created assets
+designed for specific locations or objects in a game. However, user-generated
+content is becoming increasingly popular in modern games (e.g. building custom
+environments or crafting unique objects). Since the possibilities are virtually
+limitless, it is impossible for game creators to pre-create audio for
+user-generated content. We explore the use of generative artificial
+intelligence to create music and sound effects on-the-fly based on
+user-generated content. We investigate two avenues for audio generation: 1)
+text-to-audio: using a text description of user-generated content as input to
+the audio generator, and 2) image-to-audio: using a rendering of the created
+environment or object as input to an image-to-text generator, then piping the
+resulting text description into the audio generator. In this paper we discuss
+ethical implications of using generative artificial intelligence for
+user-generated content and highlight two prototype games where audio is
+generated for user-created environments and objects.",2024-04-25,2024,2024-04,environment,http://arxiv.org/abs/2404.17018v1
+Elements Of Legislation For Artificial Intelligence Systems,"The significant part of the operational context for autonomous company
+management systems is the regulatory and legal environment in which
+corporations operate. In order to create a dedicated operational context for
+autonomous artificial intelligence systems, the wording of local regulatory
+documents can be simultaneously presented in two versions: for use by people
+and for use by autonomous systems. In this case, the artificial intelligence
+system will get a well-defined operational context that allows such a system to
+perform functions within the required standards. Local regulations that provide
+basis for the joint work of individuals and autonomous artificial intelligence
+systems can form the grounds for the relevant legislation governing the
+development and implementation of autonomous systems.",2024-05-05,2024,2024-05,environment,http://arxiv.org/abs/2407.10305v1
+"Artificial Intelligence in Education: Ethical Considerations and
+  Insights from Ancient Greek Philosophy","This paper explores the ethical implications of integrating Artificial
+Intelligence (AI) in educational settings, from primary schools to
+universities, while drawing insights from ancient Greek philosophy to address
+emerging concerns. As AI technologies increasingly influence learning
+environments, they offer novel opportunities for personalized learning,
+efficient assessment, and data-driven decision-making. However, these
+advancements also raise critical ethical questions regarding data privacy,
+algorithmic bias, student autonomy, and the changing roles of educators. This
+research examines specific use cases of AI in education, analyzing both their
+potential benefits and drawbacks. By revisiting the philosophical principles of
+ancient Greek thinkers such as Socrates, Aristotle, and Plato, we discuss how
+their writings can guide the ethical implementation of AI in modern education.
+The paper argues that while AI presents significant challenges, a balanced
+approach informed by classical philosophical thought can lead to an ethically
+sound transformation of education. It emphasizes the evolving role of teachers
+as facilitators and the importance of fostering student initiative in AI-rich
+environments.",2024-09-04,2024,2024-09,environment,http://arxiv.org/abs/2409.15296v1
+Multi-agent Path Finding in Continuous Environment,"We address a variant of multi-agent path finding in continuous environment
+(CE-MAPF), where agents move along sets of smooth curves. Collisions between
+agents are resolved via avoidance in the space domain. A new Continuous
+Environment Conflict-Based Search (CE-CBS) algorithm is proposed in this work.
+CE-CBS combines conflict-based search (CBS) for the high-level search framework
+with RRT* for low-level path planning. The CE-CBS algorithm is tested under
+various settings on diverse CE-MAPF instances. Experimental results show that
+CE-CBS is competitive w.r.t. to other algorithms that consider continuous
+aspect in MAPF such as MAPF with continuous time.",2024-09-16,2024,2024-09,environment,http://arxiv.org/abs/2409.10680v1
+"Fundamentals of legislation for autonomous artificial intelligence
+  systems","The article proposes a method for forming a dedicated operational context in
+course of development and implementation of autonomous corporate management
+systems based on example of autonomous systems for a board of directors. The
+significant part of the operational context for autonomous company management
+systems is the regulatory and legal environment within which corporations
+operate. In order to create a special operational context for autonomous
+artificial intelligence systems, the wording of local regulatory documents can
+be simultaneously presented in two versions: for use by people and for use by
+autonomous systems. In this case, the artificial intelligence system will get a
+well-defined operational context that allows such a system to perform functions
+within the required standards. Local regulations that provide for the specifics
+of the joint work of individuals and autonomous artificial intelligence systems
+can create the basis of the relevant legislation governing the development and
+implementation of autonomous systems.",2024-09-17,2024,2024-09,environment,http://arxiv.org/abs/2410.02769v1
+"Towards an Autonomous Surface Vehicle Prototype for Artificial
+  Intelligence Applications of Water Quality Monitoring","The use of Autonomous Surface Vehicles, equipped with water quality sensors
+and artificial vision systems, allows for a smart and adaptive deployment in
+water resources environmental monitoring. This paper presents a real
+implementation of a vehicle prototype that to address the use of Artificial
+Intelligence algorithms and enhanced sensing techniques for water quality
+monitoring. The vehicle is fully equipped with high-quality sensors to measure
+water quality parameters and water depth. Furthermore, by means of a
+stereo-camera, it also can detect and locate macro-plastics in real
+environments by means of deep visual models, such as YOLOv5. In this paper,
+experimental results, carried out in Lago Mayor (Sevilla), has been presented
+as proof of the capabilities of the proposed architecture. The overall system,
+and the early results obtained, are expected to provide a solid example of a
+real platform useful for the water resource monitoring task, and to serve as a
+real case scenario for deploying Artificial Intelligence algorithms, such as
+path planning, artificial vision, etc.",2024-10-08,2024,2024-10,environment,http://arxiv.org/abs/2410.05892v1
+Generative AI for Accessible and Inclusive Extended Reality,"Artificial Intelligence-Generated Content (AIGC) has the potential to
+transform how people build and interact with virtual environments. Within this
+paper, we discuss potential benefits but also challenges that AIGC has for the
+creation of inclusive and accessible virtual environments. Specifically, we
+touch upon the decreased need for 3D modeling expertise, benefits of
+symbolic-only as well as multimodal input, 3D content editing, and 3D model
+accessibility as well as foundation model-specific challenges.",2024-10-31,2024,2024-10,environment,http://arxiv.org/abs/2410.23803v1
+"Development of a Human-Robot Interaction Platform for Dual-Arm Robots
+  Based on ROS and Multimodal Artificial Intelligence","In this paper, we propose the development of an interactive platform between
+humans and a dual-arm robotic system based on the Robot Operating System (ROS)
+and a multimodal artificial intelligence model. Our proposed platform consists
+of two main components: a dual-arm robotic hardware system and software that
+includes image processing tasks and natural language processing using a 3D
+camera and embedded computing. First, we designed and developed a dual-arm
+robotic system with a positional accuracy of less than 2 cm, capable of
+operating independently, performing industrial and service tasks while
+simultaneously simulating and modeling the robot in the ROS environment.
+Second, artificial intelligence models for image processing are integrated to
+execute object picking and classification tasks with an accuracy of over 90%.
+Finally, we developed remote control software using voice commands through a
+natural language processing model. Experimental results demonstrate the
+accuracy of the multimodal artificial intelligence model and the flexibility of
+the dual-arm robotic system in interactive human environments.",2024-11-08,2024,2024-11,environment,http://arxiv.org/abs/2411.05342v1
+"Bio-inspired AI: Integrating Biological Complexity into Artificial
+  Intelligence","The pursuit of creating artificial intelligence (AI) mirrors our longstanding
+fascination with understanding our own intelligence. From the myths of Talos to
+Aristotelian logic and Heron's inventions, we have sought to replicate the
+marvels of the mind. While recent advances in AI hold promise, singular
+approaches often fall short in capturing the essence of intelligence. This
+paper explores how fundamental principles from biological
+computation--particularly context-dependent, hierarchical information
+processing, trial-and-error heuristics, and multi-scale organization--can guide
+the design of truly intelligent systems. By examining the nuanced mechanisms of
+biological intelligence, such as top-down causality and adaptive interaction
+with the environment, we aim to illuminate potential limitations in artificial
+constructs. Our goal is to provide a framework inspired by biological systems
+for designing more adaptable and robust artificial intelligent systems.",2024-11-22,2024,2024-11,environment,http://arxiv.org/abs/2411.15243v1
+"Publication Trends in Artificial Intelligence Conferences: The Rise of
+  Super Prolific Authors","Papers published in top conferences contribute influential discoveries that
+are reshaping the landscape of modern Artificial Intelligence (AI). We analyzed
+87,137 papers from 11 AI conferences to examine publication trends over the
+past decade. Our findings reveal a consistent increase in both the number of
+papers and authors, reflecting the growing interest in AI research. We also
+observed a rise in prolific researchers who publish dozens of papers at the
+same conference each year. In light of this analysis, the AI research community
+should consider revisiting authorship policies, addressing equity concerns, and
+evaluating the workload of junior researchers to foster a more sustainable and
+inclusive research environment.",2024-11-28,2024,2024-11,environment,http://arxiv.org/abs/2412.07793v1
+"More complex environments may be required to discover benefits of
+  lifetime learning in evolving robots","It is well known that intra-life learning, defined as an additional
+controller optimization loop, is beneficial for evolving robot morphologies for
+locomotion. In this work, we investigate this further by comparing it in two
+different environments: an easy flat environment and a more challenging hills
+environment. We show that learning is significantly more beneficial in a hilly
+environment than in a flat environment and that it might be needed to evaluate
+robots in a more challenging environment to see the benefits of learning.",2024-12-11,2024,2024-12,environment,http://arxiv.org/abs/2412.16184v1
